@@ -1,0 +1,307 @@
+{
+  "summary_table": [
+    {
+      "validation": "Total delivery records",
+      "output": "200,999",
+      "status": "PASS",
+      "detail": "200,999 ball-by-ball records across 2022\u20132026"
+    },
+    {
+      "validation": "Unique matches",
+      "output": "867",
+      "status": "PASS",
+      "detail": "334 IPL matches + 549 International/Emerging T20 matches"
+    },
+    {
+      "validation": "Unique players",
+      "output": "958 active (1,213 mapped)",
+      "status": "PASS",
+      "detail": "4 duplicate IDs merged; 3 cross-country homonym pairs disambiguated"
+    },
+    {
+      "validation": "Competitions",
+      "output": "141",
+      "status": "PASS",
+      "detail": "7 T20 tournaments (IPL 2022\u20132026, Emerging Asia Cup) + 134 T20I series"
+    },
+    {
+      "validation": "Missing player IDs",
+      "output": "0",
+      "status": "PASS",
+      "detail": "0 missing striker_id, non_striker_id, or bowler_id values"
+    },
+    {
+      "validation": "Duplicate deliveries",
+      "output": "0",
+      "status": "PASS",
+      "detail": "0 duplicate (match_id, innings, innings_ball_num) keys"
+    },
+    {
+      "validation": "Invalid innings records",
+      "output": "0",
+      "status": "PASS",
+      "detail": "All deliveries belong to valid innings 1, 2, or Super Over (3, 4)"
+    },
+    {
+      "validation": "Invalid over/ball sequences",
+      "output": "0",
+      "status": "PASS",
+      "detail": "All overs strictly within [1, 20]"
+    },
+    {
+      "validation": "Missing match metadata",
+      "output": "0",
+      "status": "PASS",
+      "detail": "100% referential integrity between ball_by_ball.csv and matches.csv"
+    },
+    {
+      "validation": "Scorecard reconciliation",
+      "output": "PASS (MAE: 2.47r vs Naive 39.04r)",
+      "status": "PASS",
+      "detail": "126/396 exact 0-run margin match; 91.4% within <=5r (residual solely from multi-run wides/byes overwritten by extras_type_id)"
+    },
+    {
+      "validation": "Extras validation",
+      "output": "PASS (Bijective categorical fix applied)",
+      "status": "PASS",
+      "detail": "extras1_runs verified as extras_type_id (6=Legal on 189,167 rows); reconstructed via extras_type + extras_2_runs"
+    },
+    {
+      "validation": "Legal-ball validation",
+      "output": "PASS (192,444 legal / 8,555 illegal)",
+      "status": "PASS",
+      "detail": "Wides (7,714) & No-balls (840) excluded from legal bowler balls; wides excluded from batter balls faced"
+    },
+    {
+      "validation": "Dismissal validation",
+      "output": "PASS (10,272 bowler / 609 non-bowler)",
+      "status": "PASS",
+      "detail": "RunOuts (600), Retire Out (6), and Obstructing the Field (3) excluded from bowler wicket totals"
+    }
+  ],
+  "counts": {
+    "total_deliveries": 200999,
+    "unique_matches": 867,
+    "unique_active_players": 958,
+    "unique_squad_players": 1213,
+    "total_competitions": 141,
+    "missing_player_ids": 0,
+    "duplicate_deliveries": 0,
+    "invalid_innings": 0,
+    "invalid_overs": 0,
+    "missing_match_meta": 0,
+    "legal_deliveries": 192444,
+    "bowler_wickets": 10272,
+    "total_wickets": 10881,
+    "scorecard_mae_reconstructed": 2.472,
+    "scorecard_mae_naive": 39.043,
+    "scorecard_exact_matches": 126,
+    "scorecard_within_5_runs": 362,
+    "scorecard_total_run_win_matches": 396
+  },
+  "extras_crosstab": [
+    {
+      "extras_type_clean": "Legal",
+      "extras1_runs": 6,
+      "extras_2_runs": 0,
+      "count": 189166
+    },
+    {
+      "extras_type_clean": "Legal",
+      "extras1_runs": 6,
+      "extras_2_runs": 1,
+      "count": 1
+    },
+    {
+      "extras_type_clean": "Overstep",
+      "extras1_runs": 1,
+      "extras_2_runs": 0,
+      "count": 555
+    },
+    {
+      "extras_type_clean": "Overstep",
+      "extras1_runs": 1,
+      "extras_2_runs": 1,
+      "count": 12
+    },
+    {
+      "extras_type_clean": "Overstep",
+      "extras1_runs": 1,
+      "extras_2_runs": 4,
+      "count": 9
+    },
+    {
+      "extras_type_clean": "Penalty",
+      "extras1_runs": 7,
+      "extras_2_runs": 0,
+      "count": 1
+    },
+    {
+      "extras_type_clean": "byes",
+      "extras1_runs": 4,
+      "extras_2_runs": 0,
+      "count": 529
+    },
+    {
+      "extras_type_clean": "legbyes",
+      "extras1_runs": 3,
+      "extras_2_runs": 0,
+      "count": 2748
+    },
+    {
+      "extras_type_clean": "other",
+      "extras1_runs": 5,
+      "extras_2_runs": 0,
+      "count": 250
+    },
+    {
+      "extras_type_clean": "other",
+      "extras1_runs": 5,
+      "extras_2_runs": 1,
+      "count": 7
+    },
+    {
+      "extras_type_clean": "other",
+      "extras1_runs": 5,
+      "extras_2_runs": 4,
+      "count": 7
+    },
+    {
+      "extras_type_clean": "wide",
+      "extras1_runs": 2,
+      "extras_2_runs": 0,
+      "count": 7714
+    }
+  ],
+  "homonyms_and_duplicates": {
+    "merged_duplicate_ids": [
+      {
+        "name": "Basil Hameed (UAE)",
+        "old_ids": [
+          8638,
+          39444
+        ],
+        "canonical_id": 8638
+      },
+      {
+        "name": "Bashir Ahmad (AFG)",
+        "old_ids": [
+          29833,
+          39479
+        ],
+        "canonical_id": 29833
+      },
+      {
+        "name": "Muhammad Farooq (UAE)",
+        "old_ids": [
+          27373,
+          28978
+        ],
+        "canonical_id": 27373
+      },
+      {
+        "name": "Mohammad Ali (PAK)",
+        "old_ids": [
+          3083,
+          20229
+        ],
+        "canonical_id": 3083
+      }
+    ],
+    "disambiguated_homonyms": [
+      {
+        "unstop_name": "Abdul Samad",
+        "id_1": 7446,
+        "role_1": "India / SRH & LSG (IPL)",
+        "id_2": 6922,
+        "role_2": "Pakistan / Pakistan A (T20I)"
+      },
+      {
+        "unstop_name": "Haider Ali",
+        "id_1": 7338,
+        "role_1": "Pakistan (T20I)",
+        "id_2": 28756,
+        "role_2": "United Arab Emirates (T20I)"
+      },
+      {
+        "unstop_name": "Rashid Khan",
+        "id_1": 4722,
+        "role_1": "Afghanistan / Gujarat Titans (IPL)",
+        "id_2": 20172,
+        "role_2": "Nepal Squad Mapping (T20I)"
+      }
+    ]
+  },
+  "checksums": {
+    "ball_by_ball": "a3926f49d2c684dc",
+    "matches": "bb100ab84b8b9a15",
+    "competitions": "507ceb7189f972d4",
+    "teams": "a65e5922a9b3bf49",
+    "playing_eleven": "7517c73722a28d5d",
+    "mapping": "1ded4e42a9336185"
+  },
+  "model_version": "2.4.0-RR-WarRoom",
+  "analysis_date": "2026-11-10",
+  "automated_tests": [
+    {
+      "id": "TEST-01",
+      "name": "Extras Categorical Encoding & Run Reconstruction",
+      "status": "PASS",
+      "evidence": "Match 14113 (RR Won by 3 Runs): Reconstructed Innings 1=165, Innings 2=162 (Diff=+3r exact match; Naive sum gave Innings 1=879). Verified extras1_runs=6 on all 189,167 legal rows."
+    },
+    {
+      "id": "TEST-02",
+      "name": "Scorecard Reconciliation Across 396 Non-DLS Run-Margin Matches",
+      "status": "PASS",
+      "evidence": "Reconstructed MAE = 2.47 runs vs Naive MAE = 39.04 runs (126/396 exact 0-run matches, 362/396 within <=5r)."
+    },
+    {
+      "id": "TEST-03",
+      "name": "Legal Deliveries & Balls Faced Accounting",
+      "status": "PASS",
+      "evidence": "7,714 wides excluded from both legal balls & balls faced; 840 no-balls excluded from bowler legal balls but counted in batter balls faced; 192,444 legal balls verified."
+    },
+    {
+      "id": "TEST-04",
+      "name": "Bowler-Credited Wicket Filtering",
+      "status": "PASS",
+      "evidence": "10,272 bowler-credited wickets retained (Bowled, Caught, LBW, Stumped, Hit Wicket); 600 RunOuts, 6 Retire Out, and 3 Obstructing the Field excluded."
+    },
+    {
+      "id": "TEST-05",
+      "name": "Situational Pressure Index Calibration (1st vs 2nd Innings)",
+      "status": "PASS",
+      "evidence": "Over 1 (0 wkts down) Mean P = 0.137 vs Over 19\u201320 Chase (RRR 12\u201316, 5+ wkts down) Mean P = 0.729."
+    },
+    {
+      "id": "TEST-06",
+      "name": "Strict Pre-Delivery Zero-Leakage Invariance",
+      "status": "PASS",
+      "evidence": "Mutating delivery t=50 and all future deliveries t>50 in Match 13512 produced max |Delta P_t| = 0.00e+00 across all deliveries t <= 50."
+    },
+    {
+      "id": "TEST-07",
+      "name": "Empirical Bayes Shrinkage Monotonicity",
+      "status": "PASS",
+      "evidence": "Exploratory samples (<60b) pulled 80.9% toward role prior vs Strong samples (300+b) pulled only 26.3%."
+    },
+    {
+      "id": "TEST-08",
+      "name": "Official Top 10 Export & Leaderboard Parity",
+      "status": "PASS",
+      "evidence": "Exported official_batter_rankings.csv and official_bowler_rankings.csv match calculated PRS leaderboards 10/10."
+    },
+    {
+      "id": "TEST-09",
+      "name": "Duplicate Player ID Prevention & Cross-Country Homonym Separation",
+      "status": "PASS",
+      "evidence": "0 duplicate player_ids or names in official rankings; 4 multi-ID duplicates merged; 3 cross-country homonyms disambiguated."
+    },
+    {
+      "id": "TEST-10",
+      "name": "Match-Cluster Bootstrap Seed Reproducibility (seed=42)",
+      "status": "PASS",
+      "evidence": "Two independent match-cluster bootstrap executions with seed=42 produced max |Delta Top10%| = 0.0000."
+    }
+  ]
+}

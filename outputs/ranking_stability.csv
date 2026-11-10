@@ -1,0 +1,739 @@
+player_id,player_name,unstop_name,role,press_balls,prs_score,boot_top10_pct,grid_top10_pct,boot_median_rank,boot_p10_rank,boot_p90_rank,boot_rank_sd,stability_tier,discipline
+3125,Nicholas Pooran,Nicholas Pooran,Middle-Order (4–5),434,96.16,73.8,100.0,5.0,1.0,17.1,7.35,Strong Candidate,Batting
+143,Dinesh Karthik,Dinesh Karthik,Finisher (6–7),389,96.15,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+1077,David Miller,David Miller,Middle-Order (4–5),449,95.45,87.2,100.0,5.0,2.0,12.0,4.71,Elite Stable Pick,Batting
+796,Matthew Wade,Matthew Wade,Middle-Order (4–5),166,95.44,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+813,Jos Buttler,Jos Buttler,Opener (1–2),112,95.38,92.0,46.7,2.0,1.0,9.0,6.24,Strong Candidate,Batting
+1318,Andre Russell,Andre Russell,Finisher (6–7),397,95.36,72.2,69.7,7.0,2.0,17.1,6.93,Strong Candidate,Batting
+2756,Shashank Singh,Shashank Singh,Finisher (6–7),268,95.12,80.8,100.0,4.0,1.0,17.0,7.45,Elite Stable Pick,Batting
+6396,Tim David,Tim David,Finisher (6–7),438,94.89,70.6,78.8,6.0,2.0,20.1,7.51,Strong Candidate,Batting
+8221,Nitish Reddy,Nitish Reddy,Middle-Order (4–5),124,94.73,76.0,41.7,6.0,2.0,18.0,7.82,Strong Candidate,Batting
+7897,Namboori Tilak Varma,Namboori Tilak Varma,Middle-Order (4–5),464,93.94,53.2,96.7,10.0,5.0,23.0,7.8,Strong Candidate,Batting
+2984,Sikandar Raza,Sikandar Raza,Middle-Order (4–5),300,93.26,36.2,100.0,13.0,6.0,31.0,9.94,Strong Candidate,Batting
+4260,Heinrich Klaasen,Heinrich Klaasen,Middle-Order (4–5),319,93.12,59.8,29.6,9.0,4.0,20.1,6.71,Strong Candidate,Batting
+2921,Fakhar Zaman,Fakhar Zaman,Top-Order (3),82,92.52,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4708,Rinku Singh,Rinku Singh,Finisher (6–7),425,91.94,43.6,60.6,12.0,3.0,27.0,9.63,Strong Candidate,Batting
+2214,Gulbadin Naib,Gulbadin Naib,Middle-Order (4–5),54,91.62,0.0,66.7,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7155,Sahan Arachchige,Sahan Arachchige,Middle-Order (4–5),49,90.98,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+46066,Vipraj Nigam,Vipraj Nigam,Finisher (6–7),73,90.81,99.8,66.7,2.0,1.0,5.0,1.65,Emerging Candidate,Batting
+2436,Dasun Shanaka,Dasun Shanaka,Finisher (6–7),370,90.77,34.4,63.3,14.0,6.0,30.0,9.62,Strong Candidate,Batting
+768,Reeza Hendricks,Reeza Hendricks,Opener (1–2),85,90.42,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+1699,Suryakumar Yadav,Suryakumar Yadav,Top-Order (3),322,89.85,38.0,33.3,13.0,5.0,30.0,9.83,Borderline Candidate,Batting
+6651,Towhid Hridoy,Towhid Hridoy,Middle-Order (4–5),196,89.79,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+152,Ravindra Jadeja,Ravindra Jadeja,Finisher (6–7),473,89.65,19.4,33.3,17.0,8.9,32.0,9.23,Borderline Candidate,Batting
+4773,Jaker Ali Anik,Jaker Ali Anik,Middle-Order (4–5),238,88.91,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+2877,Vijay Shankar,Vijay Shankar,Middle-Order (4–5),113,88.87,8.4,41.7,21.0,11.0,39.0,11.35,Borderline Candidate,Batting
+2485,Babar Azam,Babar Azam,Top-Order (3),47,88.75,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4391,Liam Livingstone,Liam Livingstone,Middle-Order (4–5),184,88.48,12.4,12.5,22.0,10.0,43.0,12.99,Depth Contender,Batting
+47,Virat Kohli,Virat Kohli,Opener (1–2),65,88.46,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4369,Shai Hope,Shai Hope,Top-Order (3),53,88.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3374,Mark Chapman,Mark Chapman,Middle-Order (4–5),129,88.38,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+37052,Naman Dhir,Naman Dhir,Middle-Order (4–5),164,88.34,30.0,27.8,17.0,5.0,39.0,13.59,Borderline Candidate,Batting
+8654,Cooper Connolly,Cooper Connolly,Top-Order (3),60,87.83,0.0,16.7,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+198,Manish Pandey,Manish Pandey,Middle-Order (4–5),100,87.58,0.2,0.0,26.0,16.0,42.0,10.33,Fragile Outlier,Batting
+3647,Shreyas Iyer,Shreyas Iyer,Top-Order (3),153,87.37,13.2,0.0,21.0,10.0,42.0,12.8,Depth Contender,Batting
+2680,Nurul Hasan,Nurul Hasan,Finisher (6–7),133,87.05,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+2876,Axar Patel,Axar Patel,Finisher (6–7),610,87.05,14.2,9.1,20.0,9.0,35.0,9.7,Depth Contender,Batting
+20702,Tristan Stubbs,Tristan Stubbs,Middle-Order (4–5),398,87.0,13.2,51.9,18.0,10.0,34.0,9.76,Strong Candidate,Batting
+4986,Rovman Powell,Rovman Powell,Middle-Order (4–5),632,86.74,7.6,18.2,21.5,11.0,36.1,9.54,Depth Contender,Batting
+8101,Ashutosh Sharma,Ashutosh Sharma,Finisher (6–7),284,86.56,21.6,6.7,19.0,7.0,41.0,12.96,Borderline Candidate,Batting
+4755,Shivam Dube,Shivam Dube,Middle-Order (4–5),418,86.48,6.2,0.0,22.0,11.9,39.0,10.68,Depth Contender,Batting
+6985,Bas de Leede,Bas de Leede,Top-Order (3),48,86.19,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8,Mahendra Singh Dhoni,Mahendra Singh Dhoni,Finisher (6–7),347,85.6,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+2639,Marcus Stoinis,Marcus Stoinis,Middle-Order (4–5),311,85.32,8.2,0.0,25.0,11.0,45.0,13.1,Depth Contender,Batting
+3377,Babar Hayat,Babar Hayat,Top-Order (3),85,85.22,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+7355,Tayyab Tahir,Tayyab Tahir,Middle-Order (4–5),25,85.19,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6726,Romario Shepherd,Romario Shepherd,Finisher (6–7),419,84.77,6.4,12.1,21.0,12.0,36.0,9.5,Depth Contender,Batting
+7406,Rizwan CP,Rizwan CP,Middle-Order (4–5),38,84.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3097,Shan Masood,Shan Masood,Top-Order (3),56,84.29,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6423,Riyan Parag,Riyan Parag,Middle-Order (4–5),232,83.73,8.0,0.0,27.0,11.9,47.0,13.63,Depth Contender,Batting
+3330,Hardik Pandya,Hardik Pandya,Middle-Order (4–5),399,83.3,1.6,0.0,28.0,15.0,45.0,11.75,Depth Contender,Batting
+6280,Harry Brook,Harry Brook,Middle-Order (4–5),94,83.08,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+2463,Ryan Burl,Ryan Burl,Middle-Order (4–5),288,82.9,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+2258,Sanju Samson,Sanju Samson,Top-Order (3),85,82.84,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6460,Ayush Badoni,Ayush Badoni,Middle-Order (4–5),411,82.73,2.0,10.0,30.0,18.0,46.0,11.06,Depth Contender,Batting
+2533,Najibullah Zadran,Najibullah Zadran,Middle-Order (4–5),80,82.51,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+7094,Curtis Campher,Curtis Campher,Middle-Order (4–5),169,81.98,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+8085,Suyash Prabhudessai,Suyash Prabhudessai,Finisher (6–7),54,81.63,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+20327,Usman Khan,Usman Khan,Middle-Order (4–5),41,81.24,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+49268,Sohaib Khan,Sohaib Khan,Top-Order (3),27,81.13,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6272,William Jacks,William Jacks,Top-Order (3),44,81.12,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1568,Kane Williamson,Kane Williamson,Top-Order (3),26,80.69,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+24017,Brian Bennett,Brian Bennett,Opener (1–2),46,80.38,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6664,Dion Myers,Dion Myers,Top-Order (3),83,80.34,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+8652,Mohammad Ishaq,Mohammad Ishaq,Middle-Order (4–5),35,80.3,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7544,Venkatesh Iyer,Venkatesh Iyer,Top-Order (3),127,80.24,0.4,0.0,30.0,17.0,48.0,11.26,Fragile Outlier,Batting
+1596,Moeen Ali,Moeen Ali,Middle-Order (4–5),222,80.01,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+5553,Phil Salt,Phil Salt,Opener (1–2),48,79.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4722,Rashid Khan,Rashid Khan,Finisher (6–7),439,79.78,2.6,9.1,29.0,16.0,44.1,11.18,Depth Contender,Batting
+4106,Daryl Mitchell,Daryl Mitchell,Middle-Order (4–5),171,79.68,0.0,0.0,30.5,19.0,48.0,11.21,Depth Contender,Batting
+34522,Brandon McMullen,Brandon McMullen,Top-Order (3),22,79.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+507,Mohammad Mahmudullah,Mohammad Mahmudullah,Middle-Order (4–5),99,79.39,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6288,Shubman Gill,Shubman Gill,Opener (1–2),66,79.29,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4780,Mohammad Saif Hassan,Mohammad Saif Hassan,Opener (1–2),36,79.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+167,Ajinkya Rahane,Ajinkya Rahane,Opener (1–2),28,78.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7216,Prabhsimran Singh,Prabhsimran Singh,Opener (1–2),33,78.83,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1100,Dinesh Chandimal,Dinesh Chandimal,Middle-Order (4–5),27,78.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+142,Shikhar Dhawan,Shikhar Dhawan,Opener (1–2),66,78.59,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+25507,Edson Silva,Edson Silva,Finisher (6–7),43,78.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+33114,Milan Rathnayake,Milan Rathnayake,Finisher (6–7),40,78.09,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19147,Faraz Akram,Faraz Akram,Finisher (6–7),49,78.05,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8408,Shreyas Movva,Shreyas Movva,Middle-Order (4–5),39,78.04,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7052,Dunith Wellalage,Dunith Wellalage,Finisher (6–7),45,77.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3056,Iftikhar Ahmed,Iftikhar Ahmed,Middle-Order (4–5),156,77.73,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+3282,Mehidy Hasan Miraz,Mehidy Hasan Miraz,Top-Order (3),80,77.2,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3024,Mohammad Rizwan,Mohammad Rizwan,Opener (1–2),84,77.14,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3091,Sahibzada Farhan,Sahibzada Farhan,Opener (1–2),42,76.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3954,Andrew Balbirnie,Andrew Balbirnie,Opener (1–2),47,76.74,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5379,Mark Adair,Mark Adair,Finisher (6–7),230,76.7,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+2573,Evin Lewis,Evin Lewis,Opener (1–2),20,76.63,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5882,Afif Hossain,Afif Hossain,Middle-Order (4–5),82,76.55,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3629,Corbin Bosch,Corbin Bosch,Finisher (6–7),108,76.16,0.2,0.0,35.0,21.0,55.0,12.75,Fragile Outlier,Batting
+4246,Nitish Rana,Nitish Rana,Top-Order (3),131,76.05,0.2,0.0,38.0,19.0,63.0,15.67,Depth Contender,Batting
+2003,Bhanuka Rajapaksa,Bhanuka Rajapaksa,Middle-Order (4–5),82,76.04,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+2930,Rassie van der Dussen,Rassie van der Dussen,Middle-Order (4–5),64,76.03,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7002,Nicholas Kirton,Nicholas Kirton,Top-Order (3),29,75.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+24803,Gulshan Jha,Gulshan Jha,Middle-Order (4–5),21,75.86,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7260,Dhruv Jurel,Dhruv Jurel,Middle-Order (4–5),249,75.77,2.8,0.0,36.0,16.9,56.0,14.75,Depth Contender,Batting
+26854,SM Meherob Hasan,SM Meherob Hasan,Finisher (6–7),26,75.69,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+37311,Shiv Mathur,Shiv Mathur,Middle-Order (4–5),33,75.44,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6448,Ibrahim Zadran,Ibrahim Zadran,Top-Order (3),155,75.22,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+4823,Washington Sundar,Washington Sundar,Middle-Order (4–5),279,75.12,0.4,6.7,41.0,21.9,58.0,13.69,Depth Contender,Batting
+8726,Alishan Sharafu,Alishan Sharafu,Opener (1–2),36,74.94,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2334,Dwaine Pretorius,Dwaine Pretorius,Middle-Order (4–5),34,74.91,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8739,Muhammad Irfan,Muhammad Irfan,Middle-Order (4–5),66,74.88,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4842,Shamar Springer,Shamar Springer,Finisher (6–7),69,74.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+26848,Ghazi Ghouri,Ghazi Ghouri,Middle-Order (4–5),22,74.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3382,Nizakat Khan,Nizakat Khan,Top-Order (3),27,74.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5939,Cameron Green,Cameron Green,Top-Order (3),101,74.59,0.0,0.0,35.5,22.0,54.0,12.7,Fragile Outlier,Batting
+499,Shakib Al Hasan,Shakib Al Hasan,Middle-Order (4–5),90,74.14,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+7927,Janak Prakash,Janak Prakash,Middle-Order (4–5),29,74.0,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+45966,Prashant Veer,Prashant Veer,Finisher (6–7),59,73.99,65.2,0.0,9.0,5.0,14.0,3.5,Emerging Candidate,Batting
+3645,Sarfaraz Khan,Sarfaraz Khan,Middle-Order (4–5),62,73.97,67.2,0.0,9.0,5.0,14.0,3.54,Emerging Candidate,Batting
+5839,Yasir Ali Chowdhury,Yasir Ali Chowdhury,Finisher (6–7),79,73.4,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3297,Shimron Hetmyer,Shimron Hetmyer,Middle-Order (4–5),521,73.34,0.0,9.1,39.0,24.0,54.0,11.42,Depth Contender,Batting
+4853,Glenn Phillips,Glenn Phillips,Middle-Order (4–5),140,73.32,0.6,0.0,42.0,22.0,64.0,15.9,Depth Contender,Batting
+818,Mitchell Marsh,Mitchell Marsh,Opener (1–2),61,73.22,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+47050,Shamar Joseph,Shamar Joseph,Finisher (6–7),28,73.21,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+26906,Angkrish Raghuvanshi,Angkrish Raghuvanshi,Top-Order (3),44,73.17,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7741,Gareth Delany,Gareth Delany,Finisher (6–7),174,73.13,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+15629,Shayan Jahangir,Shayan Jahangir,Finisher (6–7),29,72.96,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4814,Lorcan Tucker,Lorcan Tucker,Top-Order (3),50,72.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3605,Aiden Markram,Aiden Markram,Top-Order (3),201,72.28,0.0,0.0,45.0,25.0,65.0,14.68,Depth Contender,Batting
+27464,Aayan Afzal Khan,Aayan Afzal Khan,Finisher (6–7),67,72.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7338,Haider Ali (PAK),Haider Ali,Middle-Order (4–5),22,72.08,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2417,Akeal Hosein,Akeal Hosein,Finisher (6–7),175,72.02,0.0,0.0,41.0,24.0,60.0,13.19,Depth Contender,Batting
+126,Rohit Sharma,Rohit Sharma,Opener (1–2),44,71.97,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6433,Darwish Rasooli,Darwish Rasooli,Middle-Order (4–5),67,71.96,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4821,Mahipal Lomror,Mahipal Lomror,Middle-Order (4–5),95,71.51,50.0,0.0,10.5,5.0,17.0,4.56,Strong Candidate,Batting
+3285,Abu Haider,Abu Haider,Finisher (6–7),25,71.48,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+45749,Mukul Choudhary,Mukul Choudhary,Finisher (6–7),97,71.08,63.2,0.0,9.0,4.0,16.0,4.43,Strong Candidate,Batting
+49027,Bevon Jacobs,Bevon Jacobs,Middle-Order (4–5),21,70.91,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1071,Jaydev Unadkat,Jaydev Unadkat,Finisher (6–7),64,70.85,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+25679,Salil Arora,Salil Arora,Finisher (6–7),29,70.85,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7001,Dilon Heyliger,Dilon Heyliger,Finisher (6–7),20,70.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6674,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Opener (1–2),35,70.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6450,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Finisher (6–7),66,70.57,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3280,Nazmul Hossain Shanto,Nazmul Hossain Shanto,Top-Order (3),40,70.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4812,Harry Tector,Harry Tector,Top-Order (3),116,70.32,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3926,Rahul Tewatia,Rahul Tewatia,Finisher (6–7),380,70.18,1.0,6.1,40.0,21.0,56.0,12.94,Depth Contender,Batting
+27964,Anshul Kamboj,Anshul Kamboj,Finisher (6–7),51,70.09,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+20310,Ahmed Daniyal,Ahmed Daniyal,Finisher (6–7),22,70.03,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3543,Shahidullah Kamal,Shahidullah Kamal,Middle-Order (4–5),24,69.91,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+23450,Sai Sudharsan,Sai Sudharsan,Opener (1–2),58,69.81,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+22187,Ryan Klein,Ryan Klein,Finisher (6–7),53,69.04,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6725,Sherfane Rutherford,Sherfane Rutherford,Middle-Order (4–5),235,68.74,0.0,0.0,48.0,30.0,68.0,13.92,Depth Contender,Batting
+8301,Asif Khan,Asif Khan,Middle-Order (4–5),80,68.73,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+25139,Shubham Dubey,Shubham Dubey,Finisher (6–7),106,68.4,1.4,0.0,42.0,20.0,63.1,15.89,Fragile Outlier,Batting
+6314,Devdutt Padikkal,Devdutt Padikkal,Top-Order (3),74,68.25,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6643,Hasan Mahmud,Hasan Mahmud,Finisher (6–7),46,68.11,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+29558,Muhammad Arfan,Muhammad Arfan,Finisher (6–7),69,68.07,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+535,Ambati Rayudu,Ambati Rayudu,Middle-Order (4–5),72,67.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1101,George Dockrell,George Dockrell,Finisher (6–7),233,67.73,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+6931,Pathum Nissanka,Pathum Nissanka,Opener (1–2),54,67.6,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1187,Jason Roy,Jason Roy,Opener (1–2),26,67.53,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3727,Matthew Short,Matthew Short,Top-Order (3),65,67.52,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3281,Mosaddek Hossain,Mosaddek Hossain,Finisher (6–7),68,67.35,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2382,Jamie Overton,Jamie Overton,Finisher (6–7),117,67.22,0.0,0.0,47.0,31.9,67.0,13.32,Fragile Outlier,Batting
+19012,Zeeshan Ali,Zeeshan Ali,Opener (1–2),35,66.92,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6467,Anuj Rawat,Anuj Rawat,Middle-Order (4–5),114,66.9,0.0,0.0,51.0,29.9,70.0,14.96,Fragile Outlier,Batting
+4686,Joshua Clarkson,Joshua Clarkson,Finisher (6–7),92,66.78,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4895,Charith Asalanka,Charith Asalanka,Middle-Order (4–5),91,66.77,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+1219,David Willey,David Willey,Finisher (6–7),66,66.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7966,Farmanullah Safi,Farmanullah Safi,Finisher (6–7),29,66.58,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7709,Ainsley Ndlovu,Ainsley Ndlovu,Finisher (6–7),32,66.55,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1813,Deepak Chahar,Deepak Chahar,Finisher (6–7),58,66.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1040,Harpreet Bhatia,Harpreet Bhatia,Middle-Order (4–5),39,66.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6995,Saad Zafar,Saad Zafar,Finisher (6–7),39,66.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2490,Mohammad Nawaz,Mohammad Nawaz,Finisher (6–7),274,66.02,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+1107,Mohammad Nabi,Mohammad Nabi,Finisher (6–7),289,65.64,0.0,0.0,45.5,29.0,63.0,12.71,Depth Contender,Batting
+22920,Jacob Duffy,Jacob Duffy,Finisher (6–7),27,65.63,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5039,Rajat Patidar,Rajat Patidar,Top-Order (3),90,65.39,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3648,Deepak Hooda,Deepak Hooda,Middle-Order (4–5),155,65.39,0.0,0.0,56.0,34.0,73.0,13.96,Depth Contender,Batting
+2892,Asif Ali,Asif Ali,Finisher (6–7),58,64.96,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7446,Abdul Samad (IND),Abdul Samad,Finisher (6–7),239,64.96,0.0,0.0,47.0,28.0,67.0,14.44,Depth Contender,Batting
+4117,Ishan Kishan,Ishan Kishan,Opener (1–2),56,64.75,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+20005,Arshad Khan,Arshad Khan,Finisher (6–7),93,64.73,34.6,0.0,13.0,6.0,19.0,4.72,Borderline Candidate,Batting
+2101,Quinton de Kock,Quinton de Kock,Opener (1–2),46,64.73,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7702,Chamindu Wickramasinghe,Chamindu Wickramasinghe,Finisher (6–7),26,64.61,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+24372,Muzahir Raza,Muzahir Raza,Finisher (6–7),27,64.51,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7364,Haris Rauf,Haris Rauf,Finisher (6–7),102,64.48,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4219,Krunal Pandya,Krunal Pandya,Middle-Order (4–5),188,64.43,0.0,0.0,56.0,36.0,70.0,13.1,Depth Contender,Batting
+3639,Brandon King,Brandon King,Opener (1–2),24,64.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+34466,Arafat Minhas,Arafat Minhas,Finisher (6–7),68,64.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1205,Jonny Bairstow,Jonny Bairstow,Opener (1–2),53,64.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6645,Mohammad Sheikh,Mohammad Sheikh,Top-Order (3),26,64.17,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+23311,Jacob Bethell,Jacob Bethell,Top-Order (3),36,64.11,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+36153,Syed Haider,Syed Haider,Middle-Order (4–5),20,64.11,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6160,Chamika Karunaratne,Chamika Karunaratne,Finisher (6–7),137,64.04,0.0,0.0,47.0,36.0,63.0,10.19,Depth Contender,Batting
+305,Ravichandran Ashwin,Ravichandran Ashwin,Middle-Order (4–5),121,64.01,0.0,0.0,56.0,36.0,72.0,13.5,Fragile Outlier,Batting
+8729,Haider Shah,Haider Shah,Middle-Order (4–5),20,63.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1924,Sam Billings,Sam Billings,Middle-Order (4–5),72,63.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19902,Tim Pringle,Tim Pringle,Finisher (6–7),37,63.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3916,Jitesh Sharma,Jitesh Sharma,Finisher (6–7),227,63.24,0.0,0.0,50.0,34.0,64.0,11.26,Depth Contender,Batting
+2687,Roston Chase,Roston Chase,Middle-Order (4–5),104,63.09,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+494,Kieron Pollard,Kieron Pollard,Finisher (6–7),140,63.03,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+5808,Karim Janat,Karim Janat,Middle-Order (4–5),117,63.03,0.0,0.0,60.0,39.0,76.0,14.25,Fragile Outlier,Batting
+8005,Zawar Farid,Zawar Farid,Finisher (6–7),37,62.98,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3489,Salman Agha,Salman Agha,Middle-Order (4–5),121,62.48,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3700,Tim Seifert,Tim Seifert,Opener (1–2),33,62.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+22137,Fionn Hand,Fionn Hand,Finisher (6–7),31,62.26,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3578,Imad Wasim,Imad Wasim,Finisher (6–7),84,62.21,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6059,Ruturaj Gaikwad,Ruturaj Gaikwad,Opener (1–2),55,61.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1758,Patrick Cummins,Patrick Cummins,Finisher (6–7),200,61.94,0.0,0.0,51.0,31.0,68.1,13.76,Depth Contender,Batting
+24475,Rehan Ahmed,Rehan Ahmed,Finisher (6–7),22,61.81,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7696,Mohammad Wasim,Mohammad Wasim,Finisher (6–7),21,61.7,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+88,Faf du Plessis,Faf du Plessis,Opener (1–2),53,61.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4409,Sam Curran,Sam Curran,Middle-Order (4–5),305,61.38,0.0,0.0,57.0,40.0,71.1,12.03,Depth Contender,Batting
+8182,Donovan Ferreira,Donovan Ferreira,Finisher (6–7),142,61.37,0.0,0.0,49.0,32.0,68.0,13.38,Depth Contender,Batting
+838,Glenn Maxwell,Glenn Maxwell,Middle-Order (4–5),136,61.33,0.0,0.0,59.0,35.0,73.0,14.72,Depth Contender,Batting
+7903,Shamim Hossain,Shamim Hossain,Finisher (6–7),191,61.29,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+7059,Nehal Wadhera,Nehal Wadhera,Middle-Order (4–5),158,61.12,0.0,0.0,57.0,37.0,74.0,13.44,Depth Contender,Batting
+21777,Tafadzwa Tsiga,Tafadzwa Tsiga,Finisher (6–7),24,60.98,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4641,Lungi Ngidi,Lungi Ngidi,Finisher (6–7),60,60.75,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+15269,Mohammed Aslam,Mohammed Aslam,Finisher (6–7),25,60.75,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+26646,Rahul Chopra,Rahul Chopra,Middle-Order (4–5),100,60.69,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+26663,Kwena Maphaka,Kwena Maphaka,Finisher (6–7),21,60.26,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7409,Sundeep Jora,Sundeep Jora,Middle-Order (4–5),20,60.07,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+50062,Nqobani Mokoena,Nqobani Mokoena,Finisher (6–7),21,59.97,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8295,Matthew Forde,Matthew Forde,Finisher (6–7),76,59.78,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4904,Kamindu Mendis,Kamindu Mendis,Middle-Order (4–5),188,59.76,0.0,0.0,61.0,41.0,74.0,12.82,Depth Contender,Batting
+3550,Sharafuddin Ashraf,Sharafuddin Ashraf,Finisher (6–7),22,59.7,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3653,Avesh Khan,Avesh Khan,Finisher (6–7),50,59.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4101,Mitchell Santner,Mitchell Santner,Finisher (6–7),296,59.64,0.0,0.0,58.0,42.0,69.0,10.34,Depth Contender,Batting
+6676,Azmatullah Omarzai,Azmatullah Omarzai,Finisher (6–7),279,59.57,0.0,0.0,58.0,41.9,69.0,10.87,Depth Contender,Batting
+2320,Trent Boult,Trent Boult,Finisher (6–7),76,59.51,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+8638,Basil Hameed,Basil Hameed,Finisher (6–7),79,59.45,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+220,David Warner,David Warner,Opener (1–2),113,59.39,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4703,Rishabh Pant,Rishabh Pant,Middle-Order (4–5),141,59.36,0.0,0.0,59.0,40.0,75.0,12.92,Depth Contender,Batting
+6881,Scott Edwards,Scott Edwards,Middle-Order (4–5),31,59.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+332,Angelo Mathews,Angelo Mathews,Finisher (6–7),40,59.31,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3613,Shakeel Ahmed,Shakeel Ahmed,Finisher (6–7),40,59.26,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3323,Jimmy Neesham,Jimmy Neesham,Finisher (6–7),197,59.11,0.0,0.0,58.0,42.0,69.0,10.09,Depth Contender,Batting
+953,Lokesh Rahul,Lokesh Rahul,Opener (1–2),137,59.04,0.0,0.0,61.0,41.9,73.0,12.07,Depth Contender,Batting
+15551,Ackeem Auguste,Ackeem Auguste,Top-Order (3),21,58.92,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+22188,Aryan Dutt,Aryan Dutt,Finisher (6–7),44,58.74,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+992,Mayank Agarwal,Mayank Agarwal,Opener (1–2),39,58.44,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+403,Umesh Yadav,Umesh Yadav,Finisher (6–7),87,58.26,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4974,Mohammad Nadeem,Mohammad Nadeem,Middle-Order (4–5),30,58.25,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8238,Sameer Rizvi,Sameer Rizvi,Middle-Order (4–5),90,58.24,17.2,0.0,16.0,9.0,20.0,4.29,Borderline Candidate,Batting
+3276,Gudakesh Motie,Gudakesh Motie,Finisher (6–7),115,58.18,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+34880,Saad Masood,Saad Masood,Finisher (6–7),37,58.16,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+27959,Hrithik Shokeen,Hrithik Shokeen,Finisher (6–7),23,57.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3383,Kinchit Shah,Kinchit Shah,Middle-Order (4–5),52,57.98,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7905,Tanzim Sakib,Tanzim Sakib,Finisher (6–7),144,57.84,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+34485,Sufiyan Muqeem,Sufiyan Muqeem,Finisher (6–7),32,57.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7894,Tony Munyonga,Tony Munyonga,Finisher (6–7),52,57.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4636,Bjorn Fortuin,Bjorn Fortuin,Finisher (6–7),49,57.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5837,Mahedi Hasan,Mahedi Hasan,Finisher (6–7),172,56.85,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+8741,Mohammad Haris,Mohammad Haris,Top-Order (3),47,56.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6284,Anukul Roy,Anukul Roy,Finisher (6–7),45,56.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7937,Wasim Ali,Wasim Ali,Top-Order (3),34,56.63,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4007,Ryan Rickelton,Ryan Rickelton,Opener (1–2),23,56.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3876,Sufyan Mehmood,Sufyan Mehmood,Finisher (6–7),22,56.15,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2633,Jason Holder,Jason Holder,Finisher (6–7),277,56.14,0.0,3.0,57.0,38.9,70.0,12.02,Depth Contender,Batting
+4854,Rachin Ravindra,Rachin Ravindra,Top-Order (3),73,55.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+21790,Tashinga Musekiwa,Tashinga Musekiwa,Finisher (6–7),154,55.95,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+7472,Shahbaz Ahmed,Shahbaz Ahmed,Finisher (6–7),235,55.88,0.0,0.0,61.0,43.9,73.0,11.24,Depth Contender,Batting
+6922,Abdul Samad (PAK),Abdul Samad,Finisher (6–7),78,55.58,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+26519,Janith Liyanage,Janith Liyanage,Finisher (6–7),51,55.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5750,Ehsan Khan,Ehsan Khan,Finisher (6–7),33,55.26,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5189,Faheem Ashraf,Faheem Ashraf,Finisher (6–7),129,55.24,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+2661,Shamarh Brooks,Shamarh Brooks,Opener (1–2),23,55.18,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+27137,Hammad Mirza,Hammad Mirza,Top-Order (3),35,54.96,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4494,Abhinav Manohar,Abhinav Manohar,Finisher (6–7),97,54.91,9.2,0.0,16.0,11.0,21.0,4.11,Fragile Outlier,Batting
+7761,Ravinderpal Singh,Ravinderpal Singh,Finisher (6–7),24,54.86,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+24779,Ijaz Ahmadzai,Ijaz Ahmadzai,Finisher (6–7),36,54.82,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+33969,Tinotenda Maposa,Tinotenda Maposa,Finisher (6–7),43,54.82,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6671,Lalit Yadav,Lalit Yadav,Middle-Order (4–5),99,54.61,7.6,0.0,18.0,11.0,21.0,3.87,Fragile Outlier,Batting
+2972,Yasim Murtaza,Yasim Murtaza,Middle-Order (4–5),114,54.16,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4662,Cole McConchie,Cole McConchie,Finisher (6–7),76,53.77,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6281,Abhishek Sharma,Abhishek Sharma,Opener (1–2),44,53.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3673,Ramesh Mendis,Ramesh Mendis,Finisher (6–7),30,53.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1159,Tendai Chatara,Tendai Chatara,Finisher (6–7),24,53.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7325,Harpreet Brar,Harpreet Brar,Finisher (6–7),115,53.46,0.0,0.0,63.0,46.0,76.0,11.46,Fragile Outlier,Batting
+6526,Himmat Singh,Himmat Singh,Finisher (6–7),21,53.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7808,Marco Jansen,Marco Jansen,Finisher (6–7),225,53.4,0.0,0.0,62.0,45.9,75.0,11.75,Depth Contender,Batting
+58246,Prince Yadav,Prince Yadav,Finisher (6–7),32,53.32,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+20006,Ramandeep Singh,Ramandeep Singh,Finisher (6–7),157,53.29,0.0,0.0,60.0,41.9,75.0,12.63,Depth Contender,Batting
+41509,Yayin Rai,Yayin Rai,Finisher (6–7),26,52.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8040,Ripal Patel,Ripal Patel,Finisher (6–7),46,52.96,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6161,Rahul Chahar,Rahul Chahar,Finisher (6–7),88,52.92,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+38855,Mohammad Saifuddin,Mohammad Saifuddin,Finisher (6–7),68,52.55,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+22134,Luke Jongwe,Luke Jongwe,Finisher (6–7),115,52.45,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+60609,Navin Bidaisee,Navin Bidaisee,Finisher (6–7),26,52.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3272,Fabian Allen,Fabian Allen,Finisher (6–7),44,52.35,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4840,Odean Smith,Odean Smith,Finisher (6–7),89,52.3,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+47724,Jahandad Khan,Jahandad Khan,Finisher (6–7),32,51.9,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4867,Wesley Madhevere,Wesley Madhevere,Top-Order (3),103,51.87,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6436,Qais Ahmad,Qais Ahmad,Finisher (6–7),21,51.53,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+17424,Graham Hume,Graham Hume,Finisher (6–7),23,51.53,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1440,Rahul Tripathi,Rahul Tripathi,Top-Order (3),48,51.05,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+27380,Harshit Kaushik,Harshit Kaushik,Middle-Order (4–5),38,50.88,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19145,Aamer Jamal,Aamer Jamal,Finisher (6–7),22,50.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2379,Ben Duckett,Ben Duckett,Top-Order (3),22,50.72,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+48616,Abdul Saqlain,Abdul Saqlain,Finisher (6–7),30,50.53,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+47370,Aniket Verma,Aniket Verma,Finisher (6–7),53,50.48,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+35102,Zikria Islam,Zikria Islam,Finisher (6–7),41,50.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+35506,Quentin Sampson,Quentin Sampson,Finisher (6–7),44,50.22,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7503,Ravi Bishnoi,Ravi Bishnoi,Finisher (6–7),91,49.88,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+722,Liam Dawson,Liam Dawson,Finisher (6–7),38,49.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3275,Alzarri Joseph,Alzarri Joseph,Finisher (6–7),112,49.48,0.0,0.0,68.0,55.9,78.0,9.04,Fragile Outlier,Batting
+4838,Keemo Paul,Keemo Paul,Finisher (6–7),29,49.48,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3641,Ben Dwarshuis,Ben Dwarshuis,Finisher (6–7),27,49.07,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8723,Mohammed Faraazuddin,Mohammed Faraazuddin,Finisher (6–7),33,48.59,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4736,Josh Inglis,Josh Inglis,Top-Order (3),27,48.53,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5441,Barry McCarthy,Barry McCarthy,Finisher (6–7),109,48.53,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6739,Amir Jangoo,Amir Jangoo,Opener (1–2),22,48.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4229,George Linde,George Linde,Finisher (6–7),79,48.3,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+21781,Clive Madande,Clive Madande,Finisher (6–7),202,48.28,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+25231,Samay Shrivastava,Samay Shrivastava,Finisher (6–7),26,48.16,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5866,Patrick Kruger,Patrick Kruger,Finisher (6–7),49,48.02,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+46137,Kartik Sharma,Kartik Sharma,Middle-Order (4–5),35,47.92,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+395,Karn Sharma,Karn Sharma,Finisher (6–7),20,47.87,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+28915,Trevor Gwandu,Trevor Gwandu,Finisher (6–7),26,47.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6355,Shaheen Afridi,Shaheen Afridi,Finisher (6–7),154,47.15,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+42810,Noah Croes,Noah Croes,Finisher (6–7),36,47.13,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+786,Chris Jordan,Chris Jordan,Finisher (6–7),112,47.05,0.0,0.0,69.0,51.9,79.0,10.24,Fragile Outlier,Batting
+6395,Josh Philippe,Josh Philippe,Middle-Order (4–5),23,46.49,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6628,Gerald Coetzee,Gerald Coetzee,Finisher (6–7),83,46.06,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+1617,Rishi Dhawan,Rishi Dhawan,Finisher (6–7),48,46.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+479,Adil Rashid,Adil Rashid,Finisher (6–7),112,45.99,0.0,0.0,71.0,59.9,79.0,8.02,Fragile Outlier,Batting
+7978,Johnathan Campbell,Johnathan Campbell,Finisher (6–7),59,45.94,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6705,Scott McKechnie,Scott McKechnie,Finisher (6–7),25,45.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+29888,Harshit Rana,Harshit Rana,Finisher (6–7),115,45.71,0.0,0.0,74.0,61.9,79.0,8.11,Fragile Outlier,Batting
+5738,Xavier Bartlett,Xavier Bartlett,Finisher (6–7),63,45.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7008,Gus Atkinson,Gus Atkinson,Finisher (6–7),23,45.37,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6806,Tushar Deshpande,Tushar Deshpande,Finisher (6–7),24,45.36,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4373,Mustafizur Rahman,Mustafizur Rahman,Finisher (6–7),59,45.07,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+29066,Zakary Foulkes,Zakary Foulkes,Finisher (6–7),49,45.04,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+830,Josh Hazlewood,Josh Hazlewood,Finisher (6–7),37,44.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+161,Dwayne Bravo,Dwayne Bravo,Finisher (6–7),22,44.74,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1566,Mohammed Shami,Mohammed Shami,Finisher (6–7),38,44.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4779,Pieter Willem Mulder,Pieter Willem Mulder,Middle-Order (4–5),29,44.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19714,Abishek Porel,Abishek Porel,Top-Order (3),67,43.87,3.4,0.0,20.0,13.0,22.0,3.53,Emerging Candidate,Batting
+2681,Taskin Ahmed,Taskin Ahmed,Finisher (6–7),88,43.84,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3689,Mark Watt,Mark Watt,Finisher (6–7),49,43.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+781,Sunil Narine,Sunil Narine,Top-Order (3),58,43.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8600,Tadiwanashe Marumani,Tadiwanashe Marumani,Top-Order (3),62,43.72,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4837,Obed McCoy,Obed McCoy,Finisher (6–7),43,43.57,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+20894,Aman Khan,Aman Khan,Finisher (6–7),85,43.52,1.8,0.0,21.0,16.0,22.0,2.68,Fragile Outlier,Batting
+3298,Jofra Archer,Jofra Archer,Finisher (6–7),105,43.42,0.0,0.0,73.0,57.0,80.1,9.03,Fragile Outlier,Batting
+25216,Andile Simelane,Andile Simelane,Finisher (6–7),25,43.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3720,Craig Young,Craig Young,Finisher (6–7),30,43.24,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+56817,Shivang Kumar,Shivang Kumar,Finisher (6–7),42,43.05,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+158,Amit Mishra,Amit Mishra,Finisher (6–7),30,42.43,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4460,Jeffrey Vandersay,Jeffrey Vandersay,Finisher (6–7),23,42.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3686,CB Sole,CB Sole,Finisher (6–7),22,42.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4489,Prasidh Krishna,Prasidh Krishna,Finisher (6–7),22,42.16,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+295,Wayne Parnell,Wayne Parnell,Finisher (6–7),49,41.51,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19781,Mitchell Owen,Mitchell Owen,Finisher (6–7),28,41.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8661,Matheesha Pathirana,Matheesha Pathirana,Finisher (6–7),31,41.3,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+21784,Brad Evans,Brad Evans,Finisher (6–7),116,41.24,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6286,Shivam Mavi,Shivam Mavi,Finisher (6–7),25,40.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2847,Shardul Thakur,Shardul Thakur,Finisher (6–7),144,40.86,0.0,0.0,74.0,61.9,80.0,8.06,Depth Contender,Batting
+3628,Kagiso Rabada,Kagiso Rabada,Finisher (6–7),121,40.67,0.0,0.0,77.0,67.0,81.0,6.19,Fragile Outlier,Batting
+7699,Abbas Afridi,Abbas Afridi,Finisher (6–7),103,40.63,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+3627,Andile Phehlukwayo,Andile Phehlukwayo,Finisher (6–7),35,40.12,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3782,M Shahrukh Khan,M Shahrukh Khan,Finisher (6–7),174,39.92,0.0,0.0,74.0,62.0,79.0,7.56,Depth Contender,Batting
+914,Krishnappa Gowtham,Krishnappa Gowtham,Finisher (6–7),23,39.89,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5041,Mukesh Kumar,Mukesh Kumar,Finisher (6–7),23,39.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+34546,Aryan Bisht,Aryan Bisht,Finisher (6–7),34,39.57,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4499,Saqib Mahmood,Saqib Mahmood,Finisher (6–7),33,39.37,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3664,Binura Fernando,Binura Fernando,Finisher (6–7),25,39.35,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4639,Wellington Masakadza,Wellington Masakadza,Finisher (6–7),140,38.76,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+8014,Avi Dixit,Avi Dixit,Finisher (6–7),20,38.69,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+5809,Naveen ul Haq,Naveen ul Haq,Finisher (6–7),67,38.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7240,FazalHaq Farooqi,FazalHaq Farooqi,Finisher (6–7),45,38.6,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7625,Suryansh Shedge,Suryansh Shedge,Finisher (6–7),61,38.48,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2526,Ish Sodhi,Ish Sodhi,Finisher (6–7),115,38.19,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+49003,Hasan Nawaz,Hasan Nawaz,Middle-Order (4–5),30,38.18,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3697,Kyle Jamieson,Kyle Jamieson,Finisher (6–7),66,37.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+42548,Muhammad Jawadullah,Muhammad Jawadullah,Finisher (6–7),24,37.7,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+24812,Chris Greaves,Chris Greaves,Finisher (6–7),25,37.55,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4856,Benjamin Sears,Benjamin Sears,Finisher (6–7),28,37.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+43917,Krish Bhagat,Krish Bhagat,Finisher (6–7),21,37.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3772,Logan van Beek,Logan van Beek,Finisher (6–7),32,37.25,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4658,Nasum Ahmed,Nasum Ahmed,Finisher (6–7),67,37.22,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+25213,Dewald Brevis,Dewald Brevis,Middle-Order (4–5),47,37.06,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+772,Rilee Rossouw,Rilee Rossouw,Top-Order (3),23,36.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8380,Mohammad Rishad Hossain,Mohammad Rishad Hossain,Finisher (6–7),152,36.66,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Batting
+6464,Arshdeep Singh,Arshdeep Singh,Finisher (6–7),103,36.64,0.0,0.0,81.0,72.0,85.0,5.26,Fragile Outlier,Batting
+8049,Naseem Shah,Naseem Shah,Finisher (6–7),46,36.56,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+23,Piyush Chawla,Piyush Chawla,Finisher (6–7),35,36.12,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6669,Mohsin Khan,Mohsin Khan,Finisher (6–7),27,36.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+360,Bhuvneshwar Kumar,Bhuvneshwar Kumar,Finisher (6–7),161,35.83,0.0,0.0,80.0,71.0,85.0,6.0,Depth Contender,Batting
+39657,Eshan Malinga,Eshan Malinga,Finisher (6–7),38,35.82,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+47403,Newman Nyamhuri,Newman Nyamhuri,Finisher (6–7),21,35.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7344,Shoriful Islam,Shoriful Islam,Finisher (6–7),77,35.49,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+46378,Kyle Klein,Kyle Klein,Finisher (6–7),39,35.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4874,Richard Ngarava,Richard Ngarava,Finisher (6–7),53,34.84,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+28756,Haider Ali (UAE),Haider Ali,Finisher (6–7),39,34.84,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6783,Azam Khan,Azam Khan,Middle-Order (4–5),33,34.75,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6523,Blessing Muzarabani,Blessing Muzarabani,Finisher (6–7),42,34.73,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4201,Fareed Malik,Fareed Malik,Finisher (6–7),20,34.7,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8746,Vaibhav Arora,Vaibhav Arora,Finisher (6–7),20,34.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2933,Jasprit Bumrah,Jasprit Bumrah,Finisher (6–7),29,34.13,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1487,Adam Milne,Adam Milne,Finisher (6–7),43,33.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8009,Junaid Siddique,Junaid Siddique,Finisher (6–7),36,33.86,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3644,Kuldeep Yadav,Kuldeep Yadav,Finisher (6–7),196,33.73,0.0,0.0,82.0,76.0,85.0,4.09,Depth Contender,Batting
+7312,Nandre Burger,Nandre Burger,Finisher (6–7),25,33.5,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2399,Dushmantha Chameera,Dushmantha Chameera,Finisher (6–7),100,33.39,0.0,0.0,84.0,76.0,86.0,4.74,Fragile Outlier,Batting
+5944,Mohammed Siraj,Mohammed Siraj,Finisher (6–7),71,33.32,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2261,Harshal Patel,Harshal Patel,Finisher (6–7),117,33.3,0.0,0.0,83.0,76.0,85.0,4.2,Fragile Outlier,Batting
+7967,Noor Ahmad,Noor Ahmad,Finisher (6–7),108,33.24,0.0,0.0,83.0,75.0,86.0,4.88,Fragile Outlier,Batting
+1171,Chris Woakes,Chris Woakes,Finisher (6–7),39,32.88,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+1944,Keshav Maharaj,Keshav Maharaj,Finisher (6–7),83,32.82,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4900,Wanindu Hasaranga,Wanindu Hasaranga,Finisher (6–7),244,32.68,0.0,0.0,83.0,79.0,86.0,3.28,Depth Contender,Batting
+27373,Muhammad Farooq,Muhammad Farooq,Finisher (6–7),30,32.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6518,Daniel Sams,Daniel Sams,Finisher (6–7),51,32.5,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+8805,Ottneil Baartman,Ottneil Baartman,Finisher (6–7),35,32.47,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4111,Khushdil Shah,Khushdil Shah,Finisher (6–7),101,32.39,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+4926,Shadab Khan,Shadab Khan,Finisher (6–7),91,32.25,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Batting
+6512,Michael Bracewell,Michael Bracewell,Finisher (6–7),118,32.07,0.0,0.0,82.0,74.0,86.0,5.2,Fragile Outlier,Batting
+7327,Rasikh Salam,Rasikh Salam,Finisher (6–7),36,32.0,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7270,Anrich Nortje,Anrich Nortje,Finisher (6–7),66,31.5,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+27466,Dhruv Parashar,Dhruv Parashar,Finisher (6–7),64,31.18,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+6256,Varun Chakravarthy,Varun Chakravarthy,Finisher (6–7),46,31.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+4692,Lockie Ferguson,Lockie Ferguson,Finisher (6–7),30,30.87,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+278,Tim Southee,Tim Southee,Finisher (6–7),45,30.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+7920,Nathan Ellis,Nathan Ellis,Finisher (6–7),48,30.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+19316,Maheesh Theekshana,Maheesh Theekshana,Finisher (6–7),179,29.86,0.0,0.0,87.0,85.0,87.0,1.32,Depth Contender,Batting
+2636,Adam Zampa,Adam Zampa,Finisher (6–7),51,29.12,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3373,Aizaz Khan,Aizaz Khan,Finisher (6–7),66,28.91,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+829,Mitchell Starc,Mitchell Starc,Finisher (6–7),21,28.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+3174,Matt Henry,Matt Henry,Finisher (6–7),24,27.31,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Batting
+2933,Jasprit Bumrah,Jasprit Bumrah,All-Phase Pacer,410,96.17,93.8,100.0,2.0,1.0,8.0,4.13,Elite Stable Pick,Bowling
+34485,Sufiyan Muqeem,Sufiyan Muqeem,Middle-Over Spin Controller,194,96.07,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+6256,Varun Chakravarthy,Varun Chakravarthy,Middle-Over Spin Controller,597,95.64,92.0,97.2,4.0,1.0,10.0,3.64,Elite Stable Pick,Bowling
+781,Sunil Narine,Sunil Narine,Middle-Over Spin Controller,370,95.04,84.4,100.0,4.0,1.0,12.0,5.87,Elite Stable Pick,Bowling
+5979,Abrar Ahmed,Abrar Ahmed,Middle-Over Spin Controller,254,94.92,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+2490,Mohammad Nawaz,Mohammad Nawaz,Middle-Over Spin Controller,202,94.67,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+6628,Gerald Coetzee,Gerald Coetzee,All-Phase Pacer,109,93.66,89.0,100.0,3.0,1.0,11.0,4.9,Elite Stable Pick,Bowling
+6355,Shaheen Afridi,Shaheen Afridi,Powerplay New-Ball Specialist,188,93.52,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+4722,Rashid Khan,Rashid Khan,Middle-Over Spin Controller,801,93.07,79.4,83.3,6.0,3.0,14.0,4.93,Elite Stable Pick,Bowling
+5577,Sai Kishore,Sai Kishore,Middle-Over Spin Controller,116,92.72,75.8,86.7,7.0,4.0,15.0,5.41,Strong Candidate,Bowling
+2382,Jamie Overton,Jamie Overton,Middle-Over Pace Controller,157,92.27,69.0,100.0,7.0,2.0,20.0,8.07,Strong Candidate,Bowling
+8661,Matheesha Pathirana,Matheesha Pathirana,Death-Over Specialist,436,91.37,74.4,66.7,6.0,2.0,17.0,6.55,Strong Candidate,Bowling
+4856,Benjamin Sears,Benjamin Sears,All-Phase Pacer,102,90.6,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+20310,Ahmed Daniyal,Ahmed Daniyal,Death-Over Specialist,108,89.46,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+278,Tim Southee,Tim Southee,Powerplay New-Ball Specialist,214,89.14,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+25048,Umran Malik,Umran Malik,Middle-Over Pace Controller,153,89.06,49.8,57.1,11.0,4.0,27.1,11.25,Strong Candidate,Bowling
+27964,Anshul Kamboj,Anshul Kamboj,Powerplay New-Ball Specialist,79,89.04,99.8,91.7,1.0,1.0,5.0,1.78,Elite Stable Pick,Bowling
+6354,Spencer Johnson,Spencer Johnson,Powerplay New-Ball Specialist,83,88.86,0.0,55.6,25.0,15.0,35.0,5.0,Strong Candidate,Bowling
+2878,Mohit Sharma,Mohit Sharma,Death-Over Specialist,235,88.49,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+3644,Kuldeep Yadav,Kuldeep Yadav,Middle-Over Spin Controller,475,88.27,22.8,78.8,15.0,8.9,26.0,7.64,Strong Candidate,Bowling
+4101,Mitchell Santner,Mitchell Santner,Middle-Over Spin Controller,465,87.96,31.8,27.3,13.0,6.0,25.0,7.96,Borderline Candidate,Bowling
+22471,Matthew Humphreys,Matthew Humphreys,All-Phase Spinner,69,87.55,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+21784,Brad Evans,Brad Evans,Death-Over Specialist,63,87.51,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3298,Jofra Archer,Jofra Archer,Powerplay New-Ball Specialist,198,87.05,33.8,33.3,13.0,6.0,29.0,10.09,Borderline Candidate,Bowling
+52338,Usman Tariq,Usman Tariq,Middle-Over Spin Controller,52,86.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+24767,Ripon Mondol,Ripon Mondol,Death-Over Specialist,71,86.93,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4373,Mustafizur Rahman,Mustafizur Rahman,Death-Over Specialist,486,86.84,37.2,44.4,13.0,5.0,28.0,9.44,Borderline Candidate,Bowling
+8326,Jayden Seales,Jayden Seales,Powerplay New-Ball Specialist,30,86.74,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4489,Prasidh Krishna,Prasidh Krishna,All-Phase Pacer,319,86.46,20.0,26.7,15.0,8.0,31.0,9.26,Borderline Candidate,Bowling
+4229,George Linde,George Linde,Middle-Over Spin Controller,45,86.4,0.0,33.3,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7327,Rasikh Salam,Rasikh Salam,All-Phase Pacer,172,86.33,14.8,38.1,15.0,10.0,28.1,8.08,Borderline Candidate,Bowling
+25030,Zaman Khan,Zaman Khan,Powerplay New-Ball Specialist,29,86.03,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4237,Tabraiz Shamsi,Tabraiz Shamsi,Middle-Over Spin Controller,63,85.88,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8634,Ashwani Kumar,Ashwani Kumar,Middle-Over Pace Controller,54,85.55,0.0,66.7,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6669,Mohsin Khan,Mohsin Khan,Powerplay New-Ball Specialist,139,85.48,39.2,16.7,13.0,6.0,33.1,13.0,Borderline Candidate,Bowling
+6196,Josh Tongue,Josh Tongue,Powerplay New-Ball Specialist,32,84.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+20704,Salman Mirza,Salman Mirza,Powerplay New-Ball Specialist,89,84.45,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+6179,Nipun Ransika,Nipun Ransika,All-Phase Pacer,36,84.4,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3628,Kagiso Rabada,Kagiso Rabada,Powerplay New-Ball Specialist,244,84.0,23.2,8.3,17.0,7.0,37.0,12.17,Borderline Candidate,Bowling
+2985,Mark Wood,Mark Wood,All-Phase Pacer,69,83.89,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4926,Shadab Khan,Shadab Khan,Middle-Over Spin Controller,194,83.47,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+403,Umesh Yadav,Umesh Yadav,Powerplay New-Ball Specialist,52,83.19,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+830,Josh Hazlewood,Josh Hazlewood,Powerplay New-Ball Specialist,405,82.57,17.2,25.0,18.0,8.0,36.0,11.41,Borderline Candidate,Bowling
+5940,Riley Meredith,Riley Meredith,Death-Over Specialist,97,82.46,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+8298,Ramon Simmonds,Ramon Simmonds,All-Phase Pacer,29,82.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+29888,Harshit Rana,Harshit Rana,Powerplay New-Ball Specialist,201,82.18,6.6,33.3,22.0,11.9,41.1,12.61,Borderline Candidate,Bowling
+24473,Sonny Baker,Sonny Baker,Powerplay New-Ball Specialist,34,82.1,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1389,Sean Abbott,Sean Abbott,All-Phase Pacer,75,81.56,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+4882,Kushal Bhurtel,Kushal Bhurtel,Middle-Over Spin Controller,34,81.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8221,Nitish Reddy,Nitish Reddy,Middle-Over Pace Controller,153,81.42,13.0,0.0,23.5,9.0,46.0,14.34,Depth Contender,Bowling
+6515,Benjamin Lister,Benjamin Lister,Powerplay New-Ball Specialist,31,80.94,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3697,Kyle Jamieson,Kyle Jamieson,Powerplay New-Ball Specialist,119,80.91,3.8,0.0,20.0,13.0,35.0,8.74,Fragile Outlier,Bowling
+20006,Ramandeep Singh,Ramandeep Singh,Death-Over Specialist,55,80.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3489,Salman Agha,Salman Agha,Middle-Over Spin Controller,38,80.37,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+25132,Praful Hinge,Praful Hinge,All-Phase Pacer,42,79.86,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7967,Noor Ahmad,Noor Ahmad,Middle-Over Spin Controller,369,79.32,4.2,0.0,25.5,13.0,50.1,14.51,Depth Contender,Bowling
+19530,Shahnawaz Dhani,Shahnawaz Dhani,Powerplay New-Ball Specialist,39,78.8,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+27504,Dushan Hemantha,Dushan Hemantha,Middle-Over Spin Controller,42,78.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1318,Andre Russell,Andre Russell,Death-Over Specialist,235,78.76,0.0,7.4,31.0,17.0,61.1,17.72,Depth Contender,Bowling
+35318,Sakib Hussain,Sakib Hussain,All-Phase Pacer,82,78.35,95.4,0.0,5.0,2.0,9.0,2.65,Strong Candidate,Bowling
+2681,Taskin Ahmed,Taskin Ahmed,Powerplay New-Ball Specialist,281,78.26,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+7906,Rakibul Hasan,Rakibul Hasan,Middle-Over Spin Controller,29,78.24,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+17424,Graham Hume,Graham Hume,Powerplay New-Ball Specialist,24,78.04,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6464,Arshdeep Singh,Arshdeep Singh,Powerplay New-Ball Specialist,866,77.99,0.4,8.3,28.0,18.0,45.0,10.72,Depth Contender,Bowling
+34880,Saad Masood,Saad Masood,Middle-Over Spin Controller,45,77.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+23467,Gurjapneet Singh,Gurjapneet Singh,All-Phase Pacer,91,77.11,94.8,0.0,5.0,2.0,9.0,2.67,Strong Candidate,Bowling
+46066,Vipraj Nigam,Vipraj Nigam,Middle-Over Spin Controller,38,76.8,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4641,Lungi Ngidi,Lungi Ngidi,Powerplay New-Ball Specialist,149,76.74,2.8,0.0,27.0,15.0,49.1,13.36,Depth Contender,Bowling
+6643,Hasan Mahmud,Hasan Mahmud,All-Phase Pacer,137,76.68,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+3772,Logan van Beek,Logan van Beek,Death-Over Specialist,57,76.46,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3276,Gudakesh Motie,Gudakesh Motie,Middle-Over Spin Controller,116,76.45,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+67036,Brijesh Sharma,Brijesh Sharma,All-Phase Pacer,85,76.43,93.0,0.0,5.0,2.0,10.0,2.86,Strong Candidate,Bowling
+19902,Tim Pringle,Tim Pringle,Middle-Over Spin Controller,26,76.09,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2261,Harshal Patel,Harshal Patel,Death-Over Specialist,552,75.83,4.8,8.3,25.0,13.0,43.0,11.64,Depth Contender,Bowling
+6161,Rahul Chahar,Rahul Chahar,Middle-Over Spin Controller,186,75.8,2.0,8.3,29.0,15.0,53.0,14.84,Depth Contender,Bowling
+7533,Simarjeet Singh,Simarjeet Singh,Powerplay New-Ball Specialist,36,75.6,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2636,Adam Zampa,Adam Zampa,Middle-Over Spin Controller,296,75.43,0.0,0.0,35.0,20.0,62.0,15.49,Depth Contender,Bowling
+5837,Mahedi Hasan,Mahedi Hasan,Powerplay New-Ball Specialist,143,75.21,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+1612,Yuzvendra Chahal,Yuzvendra Chahal,Middle-Over Spin Controller,558,75.0,0.0,15.2,40.0,25.0,65.0,15.08,Depth Contender,Bowling
+6806,Tushar Deshpande,Tushar Deshpande,Powerplay New-Ball Specialist,245,74.98,0.0,0.0,32.0,20.0,54.1,13.59,Depth Contender,Bowling
+45457,Zach Lion Cachet,Zach Lion Cachet,Middle-Over Spin Controller,32,74.63,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3605,Aiden Markram,Aiden Markram,Middle-Over Spin Controller,24,74.59,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+27516,Ihsanullah Ihsanullah,Ihsanullah Ihsanullah,All-Phase Pacer,28,74.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3660,Luke Wood,Luke Wood,Powerplay New-Ball Specialist,56,73.9,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5939,Cameron Green,Cameron Green,Middle-Over Pace Controller,160,73.11,5.8,0.0,30.0,13.9,55.0,15.36,Depth Contender,Bowling
+29066,Zakary Foulkes,Zakary Foulkes,Powerplay New-Ball Specialist,81,72.92,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+47050,Shamar Joseph,Shamar Joseph,All-Phase Pacer,74,72.84,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2417,Akeal Hosein,Akeal Hosein,Powerplay New-Ball Specialist,180,72.69,4.4,0.0,32.0,15.0,53.0,14.03,Depth Contender,Bowling
+494,Kieron Pollard,Kieron Pollard,Middle-Over Pace Controller,33,72.67,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6398,Aaron Hardie,Aaron Hardie,All-Phase Pacer,50,72.64,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+17911,Nangeyalia Kharote,Nangeyalia Kharote,Middle-Over Spin Controller,36,72.61,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+161,Dwayne Bravo,Dwayne Bravo,Death-Over Specialist,96,72.53,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7696,Mohammad Wasim,Mohammad Wasim,Powerplay New-Ball Specialist,81,72.51,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7912,Vikramjit Singh,Vikramjit Singh,Middle-Over Pace Controller,30,72.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+286,Kane Richardson,Kane Richardson,Death-Over Specialist,67,72.21,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1159,Tendai Chatara,Tendai Chatara,Powerplay New-Ball Specialist,35,72.09,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3578,Imad Wasim,Imad Wasim,Middle-Over Spin Controller,30,71.83,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6284,Anukul Roy,Anukul Roy,All-Phase Spinner,41,71.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+499,Shakib Al Hasan,Shakib Al Hasan,All-Phase Spinner,76,71.47,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7927,Janak Prakash,Janak Prakash,Death-Over Specialist,25,71.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+19315,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,Middle-Over Spin Controller,30,71.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8009,Junaid Siddique,Junaid Siddique,Death-Over Specialist,88,71.05,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+8424,Tanveer Sangha,Tanveer Sangha,Middle-Over Spin Controller,34,70.92,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+23311,Jacob Bethell,Jacob Bethell,Middle-Over Spin Controller,28,70.84,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2997,Paul van Meekeren,Paul van Meekeren,All-Phase Pacer,67,70.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6932,Pramod Madushan,Pramod Madushan,All-Phase Pacer,38,70.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3629,Corbin Bosch,Corbin Bosch,All-Phase Pacer,91,69.97,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+23,Piyush Chawla,Piyush Chawla,Middle-Over Spin Controller,78,69.81,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+360,Bhuvneshwar Kumar,Bhuvneshwar Kumar,Powerplay New-Ball Specialist,501,69.64,0.4,8.3,37.0,22.0,56.0,13.78,Depth Contender,Bowling
+2633,Jason Holder,Jason Holder,All-Phase Pacer,455,69.62,0.2,19.4,39.0,22.0,61.0,14.55,Depth Contender,Bowling
+7322,Yash Dayal,Yash Dayal,Powerplay New-Ball Specialist,210,69.29,0.0,0.0,39.0,21.0,68.0,18.06,Depth Contender,Bowling
+34466,Arafat Minhas,Arafat Minhas,Middle-Over Spin Controller,34,69.12,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7699,Abbas Afridi,Abbas Afridi,All-Phase Pacer,67,68.69,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6512,Michael Bracewell,Michael Bracewell,Middle-Over Spin Controller,137,68.61,0.4,0.0,38.0,18.0,67.0,18.26,Depth Contender,Bowling
+4391,Liam Livingstone,Liam Livingstone,Middle-Over Spin Controller,129,68.58,0.0,0.0,44.0,27.0,68.0,15.66,Fragile Outlier,Bowling
+4438,Jasdeep Singh,Jasdeep Singh,Death-Over Specialist,35,68.47,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+25138,Harsh Dubey,Harsh Dubey,Middle-Over Spin Controller,60,68.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5562,Richard Gleeson,Richard Gleeson,All-Phase Pacer,72,68.44,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7905,Tanzim Sakib,Tanzim Sakib,All-Phase Pacer,168,68.3,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+39657,Eshan Malinga,Eshan Malinga,All-Phase Pacer,230,67.64,0.2,0.0,35.0,19.0,60.0,16.0,Depth Contender,Bowling
+3720,Craig Young,Craig Young,All-Phase Pacer,64,67.54,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+37052,Naman Dhir,Naman Dhir,Middle-Over Spin Controller,31,67.37,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1101,George Dockrell,George Dockrell,Middle-Over Spin Controller,45,67.2,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+42548,Muhammad Jawadullah,Muhammad Jawadullah,Death-Over Specialist,57,67.1,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5379,Mark Adair,Mark Adair,Death-Over Specialist,192,66.87,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+4111,Khushdil Shah,Khushdil Shah,Middle-Over Spin Controller,24,66.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5944,Mohammed Siraj,Mohammed Siraj,Powerplay New-Ball Specialist,369,66.76,0.0,0.0,40.0,23.0,65.0,15.12,Depth Contender,Bowling
+1107,Mohammad Nabi,Mohammad Nabi,Middle-Over Spin Controller,170,66.57,1.4,0.0,40.5,19.0,63.0,16.74,Depth Contender,Bowling
+829,Mitchell Starc,Mitchell Starc,Powerplay New-Ball Specialist,163,66.39,0.0,0.0,43.0,25.0,71.1,17.19,Depth Contender,Bowling
+7364,Haris Rauf,Haris Rauf,Death-Over Specialist,237,66.09,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+914,Krishnappa Gowtham,Krishnappa Gowtham,Middle-Over Spin Controller,41,65.97,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+395,Karn Sharma,Karn Sharma,Middle-Over Spin Controller,145,65.95,0.0,0.0,55.0,31.0,84.1,19.16,Depth Contender,Bowling
+8614,William ORourke,William ORourke,All-Phase Pacer,51,65.76,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+38855,Mohammad Saifuddin,Mohammad Saifuddin,Death-Over Specialist,141,65.56,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+5750,Ehsan Khan,Ehsan Khan,Death-Over Specialist,69,65.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8177,Akash Madhwal,Akash Madhwal,Death-Over Specialist,67,65.33,82.8,0.0,7.0,4.0,12.0,3.07,Emerging Candidate,Bowling
+7935,Mohammad Ghazanfar,Mohammad Ghazanfar,Middle-Over Spin Controller,24,65.23,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4895,Charith Asalanka,Charith Asalanka,Middle-Over Spin Controller,36,65.02,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4265,T Natarajan,T Natarajan,Death-Over Specialist,314,64.86,0.6,0.0,44.0,22.0,69.0,17.38,Depth Contender,Bowling
+4815,Benjamin White,Benjamin White,Middle-Over Spin Controller,36,64.79,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8380,Mohammad Rishad Hossain,Mohammad Rishad Hossain,Middle-Over Spin Controller,342,64.57,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+4900,Wanindu Hasaranga,Wanindu Hasaranga,Middle-Over Spin Controller,524,64.43,0.0,0.0,50.0,32.0,72.0,14.79,Depth Contender,Bowling
+7312,Nandre Burger,Nandre Burger,Powerplay New-Ball Specialist,85,64.42,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7241,Ziaur Rahman,Ziaur Rahman,Death-Over Specialist,30,64.23,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+28018,Ashok Sharma,Ashok Sharma,All-Phase Pacer,62,63.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6450,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Powerplay New-Ball Specialist,150,63.66,1.0,0.0,42.0,19.9,71.0,18.63,Depth Contender,Bowling
+28756,Haider Ali (UAE),Haider Ali,All-Phase Spinner,47,63.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2436,Dasun Shanaka,Dasun Shanaka,Middle-Over Pace Controller,146,63.13,0.2,0.0,41.0,25.0,64.0,14.42,Depth Contender,Bowling
+5809,Naveen ul Haq,Naveen ul Haq,Death-Over Specialist,262,62.93,0.2,0.0,41.0,23.0,64.0,15.28,Depth Contender,Bowling
+26795,Joel Davies,Joel Davies,Middle-Over Spin Controller,24,62.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3623,Hasan Ali,Hasan Ali,Death-Over Specialist,41,62.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2852,Jagadeesha Suchith,Jagadeesha Suchith,Middle-Over Spin Controller,28,62.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+25128,Nqabayomzi Peter,Nqabayomzi Peter,Middle-Over Spin Controller,33,62.21,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6287,Yash Thakur,Yash Thakur,Death-Over Specialist,176,62.15,0.0,0.0,55.0,31.0,80.0,18.15,Depth Contender,Bowling
+8639,Kartik Meiyappan,Kartik Meiyappan,Middle-Over Spin Controller,26,62.08,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3282,Mehidy Hasan Miraz,Mehidy Hasan Miraz,Middle-Over Spin Controller,59,62.01,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6237,Manimaran Siddharth,Manimaran Siddharth,All-Phase Spinner,35,61.72,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2972,Yasim Murtaza,Yasim Murtaza,Middle-Over Spin Controller,38,61.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+988,Graeme Cremer,Graeme Cremer,Middle-Over Spin Controller,27,61.56,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4840,Odean Smith,Odean Smith,All-Phase Pacer,82,61.53,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+2687,Roston Chase,Roston Chase,Middle-Over Spin Controller,61,61.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6523,Blessing Muzarabani,Blessing Muzarabani,Powerplay New-Ball Specialist,135,60.97,0.0,0.0,42.0,24.0,62.0,14.28,Depth Contender,Bowling
+3550,Sharafuddin Ashraf,Sharafuddin Ashraf,Middle-Over Spin Controller,58,60.49,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1071,Jaydev Unadkat,Jaydev Unadkat,All-Phase Pacer,121,60.18,0.0,0.0,53.0,29.0,81.1,19.47,Fragile Outlier,Bowling
+3056,Iftikhar Ahmed,Iftikhar Ahmed,Middle-Over Spin Controller,41,59.73,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+158,Amit Mishra,Amit Mishra,Middle-Over Spin Controller,24,59.69,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7897,Namboori Tilak Varma,Namboori Tilak Varma,Middle-Over Spin Controller,30,59.35,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+152,Ravindra Jadeja,Ravindra Jadeja,Middle-Over Spin Controller,291,58.98,0.0,0.0,57.0,34.0,78.1,15.95,Depth Contender,Bowling
+6286,Shivam Mavi,Shivam Mavi,Death-Over Specialist,85,58.51,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+26663,Kwena Maphaka,Kwena Maphaka,All-Phase Pacer,35,57.83,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8746,Vaibhav Arora,Vaibhav Arora,Powerplay New-Ball Specialist,196,57.79,0.0,0.0,57.0,33.0,86.1,19.17,Depth Contender,Bowling
+3627,Andile Phehlukwayo,Andile Phehlukwayo,Middle-Over Pace Controller,33,57.25,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6676,Azmatullah Omarzai,Azmatullah Omarzai,Powerplay New-Ball Specialist,200,57.24,0.0,0.0,57.0,31.0,77.0,16.62,Depth Contender,Bowling
+6518,Daniel Sams,Daniel Sams,Powerplay New-Ball Specialist,50,57.2,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4505,Jhye Richardson,Jhye Richardson,Death-Over Specialist,35,57.19,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7920,Nathan Ellis,Nathan Ellis,Death-Over Specialist,242,56.7,0.0,0.0,46.0,27.9,69.0,15.13,Depth Contender,Bowling
+7240,FazalHaq Farooqi,FazalHaq Farooqi,Powerplay New-Ball Specialist,209,56.68,0.0,0.0,52.5,31.0,72.1,15.32,Depth Contender,Bowling
+7227,Nijat Masood,Nijat Masood,Death-Over Specialist,31,56.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+838,Glenn Maxwell,Glenn Maxwell,Middle-Over Spin Controller,47,56.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3664,Binura Fernando,Binura Fernando,Powerplay New-Ball Specialist,60,56.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2526,Ish Sodhi,Ish Sodhi,Middle-Over Spin Controller,336,56.34,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+41503,Yash Punja,Yash Punja,Middle-Over Spin Controller,51,56.33,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7574,Kumar Kartikeya Singh,Kumar Kartikeya Singh,Middle-Over Spin Controller,51,56.24,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2399,Dushmantha Chameera,Dushmantha Chameera,All-Phase Pacer,240,55.63,0.0,0.0,59.0,35.0,77.0,15.35,Depth Contender,Bowling
+8311,Dan Mousley,Dan Mousley,Death-Over Specialist,35,55.59,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4837,Obed McCoy,Obed McCoy,Death-Over Specialist,203,55.5,0.0,0.0,48.0,27.0,78.0,19.15,Depth Contender,Bowling
+56817,Shivang Kumar,Shivang Kumar,Middle-Over Spin Controller,59,55.35,57.4,0.0,10.0,6.0,14.0,2.93,Emerging Candidate,Bowling
+4874,Richard Ngarava,Richard Ngarava,Powerplay New-Ball Specialist,181,54.6,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+3330,Hardik Pandya,Hardik Pandya,All-Phase Pacer,376,54.31,0.0,0.0,63.0,36.0,82.0,16.61,Depth Contender,Bowling
+6683,Mayank Markande,Mayank Markande,Middle-Over Spin Controller,95,54.21,34.4,0.0,12.0,7.0,15.0,3.25,Borderline Candidate,Bowling
+1566,Mohammed Shami,Mohammed Shami,Powerplay New-Ball Specialist,263,53.96,0.0,0.0,60.5,39.9,82.0,16.27,Depth Contender,Bowling
+5441,Barry McCarthy,Barry McCarthy,All-Phase Pacer,157,53.79,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+7808,Marco Jansen,Marco Jansen,Powerplay New-Ball Specialist,200,53.56,0.0,0.0,62.0,36.0,81.0,16.79,Depth Contender,Bowling
+8295,Matthew Forde,Matthew Forde,Powerplay New-Ball Specialist,43,53.37,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6272,William Jacks,William Jacks,Middle-Over Spin Controller,58,53.35,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1617,Rishi Dhawan,Rishi Dhawan,All-Phase Pacer,31,52.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+17898,Bilal Sami,Bilal Sami,Death-Over Specialist,47,52.6,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1772,Sheldon Cottrell,Sheldon Cottrell,Powerplay New-Ball Specialist,29,52.42,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2463,Ryan Burl,Ryan Burl,Middle-Over Spin Controller,66,52.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+36982,Suyash Sharma,Suyash Sharma,Middle-Over Spin Controller,253,52.39,0.0,0.0,65.0,39.0,87.0,17.86,Depth Contender,Bowling
+7741,Gareth Delany,Gareth Delany,Middle-Over Spin Controller,86,52.34,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+4692,Lockie Ferguson,Lockie Ferguson,All-Phase Pacer,320,52.19,0.0,0.0,61.0,38.0,76.1,14.39,Depth Contender,Bowling
+3543,Shahidullah Kamal,Shahidullah Kamal,Death-Over Specialist,24,52.11,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2847,Shardul Thakur,Shardul Thakur,All-Phase Pacer,241,52.03,0.0,0.0,67.0,44.0,86.0,16.05,Depth Contender,Bowling
+8805,Ottneil Baartman,Ottneil Baartman,All-Phase Pacer,74,51.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2984,Sikandar Raza,Sikandar Raza,Middle-Over Spin Controller,186,51.69,0.0,0.0,63.0,47.0,74.0,10.72,Depth Contender,Bowling
+8530,Kartik Tyagi,Kartik Tyagi,All-Phase Pacer,82,51.25,42.0,0.0,11.0,6.0,15.0,3.39,Borderline Candidate,Bowling
+28,Ishant Sharma,Ishant Sharma,Powerplay New-Ball Specialist,90,51.19,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+295,Wayne Parnell,Wayne Parnell,Powerplay New-Ball Specialist,94,50.97,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+3653,Avesh Khan,Avesh Khan,Death-Over Specialist,538,50.77,0.0,5.6,69.0,47.0,86.0,14.94,Depth Contender,Bowling
+4409,Sam Curran,Sam Curran,All-Phase Pacer,277,50.49,0.0,0.0,70.0,45.0,89.0,16.19,Depth Contender,Bowling
+2364,Ashton Agar,Ashton Agar,Middle-Over Spin Controller,30,50.41,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+773,Shadley Van Schalkwyk,Shadley Van Schalkwyk,Death-Over Specialist,30,50.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4947,Kasun Rajitha,Kasun Rajitha,Powerplay New-Ball Specialist,30,50.13,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1758,Patrick Cummins,Patrick Cummins,All-Phase Pacer,239,49.96,0.0,0.0,67.0,39.0,88.0,18.28,Depth Contender,Bowling
+48616,Abdul Saqlain,Abdul Saqlain,Middle-Over Pace Controller,45,49.84,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5738,Xavier Bartlett,Xavier Bartlett,Powerplay New-Ball Specialist,85,49.72,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+6423,Riyan Parag,Riyan Parag,Middle-Over Spin Controller,34,49.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8033,Abdul Rahmani,Abdul Rahmani,Death-Over Specialist,31,49.56,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4219,Krunal Pandya,Krunal Pandya,Middle-Over Spin Controller,222,49.47,0.0,0.0,68.0,39.0,87.0,17.4,Depth Contender,Bowling
+58246,Prince Yadav,Prince Yadav,All-Phase Pacer,151,49.04,0.0,0.0,69.0,45.0,88.0,16.06,Depth Contender,Bowling
+722,Liam Dawson,Liam Dawson,Middle-Over Spin Controller,97,49.03,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+1487,Adam Milne,Adam Milne,Powerplay New-Ball Specialist,123,48.96,0.0,0.0,67.0,43.9,89.0,16.98,Fragile Outlier,Bowling
+2639,Marcus Stoinis,Marcus Stoinis,Middle-Over Pace Controller,187,48.41,0.0,0.0,72.0,43.0,93.0,18.57,Depth Contender,Bowling
+3648,Deepak Hooda,Deepak Hooda,Middle-Over Spin Controller,55,48.38,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3272,Fabian Allen,Fabian Allen,Middle-Over Spin Controller,52,48.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5034,Murugan Ashwin,Murugan Ashwin,Middle-Over Spin Controller,28,48.3,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4639,Wellington Masakadza,Wellington Masakadza,Middle-Over Spin Controller,46,47.8,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+27466,Dhruv Parashar,Dhruv Parashar,Middle-Over Spin Controller,25,47.68,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7503,Ravi Bishnoi,Ravi Bishnoi,Middle-Over Spin Controller,741,47.39,0.0,2.8,75.0,56.9,89.0,12.5,Depth Contender,Bowling
+27743,DT Doram,DT Doram,Middle-Over Spin Controller,68,47.32,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+22920,Jacob Duffy,Jacob Duffy,Powerplay New-Ball Specialist,206,47.08,0.0,0.0,76.0,48.0,95.0,17.24,Depth Contender,Bowling
+3323,Jimmy Neesham,Jimmy Neesham,Middle-Over Pace Controller,134,47.07,0.0,0.0,67.0,39.0,90.0,18.58,Depth Contender,Bowling
+46982,Shahid Aziz,Shahid Aziz,Death-Over Specialist,31,46.82,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6281,Abhishek Sharma,Abhishek Sharma,Middle-Over Spin Controller,147,46.78,0.0,0.0,77.0,49.0,94.0,16.82,Depth Contender,Bowling
+7344,Shoriful Islam,Shoriful Islam,Powerplay New-Ball Specialist,133,46.69,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+479,Adil Rashid,Adil Rashid,Middle-Over Spin Controller,328,46.62,0.0,0.0,77.0,52.0,91.0,15.06,Depth Contender,Bowling
+2054,Jason Behrendorff,Jason Behrendorff,Powerplay New-Ball Specialist,83,46.47,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+3174,Matt Henry,Matt Henry,Powerplay New-Ball Specialist,100,46.37,0.0,0.0,74.0,47.0,94.1,16.87,Fragile Outlier,Bowling
+4499,Saqib Mahmood,Saqib Mahmood,Powerplay New-Ball Specialist,31,46.15,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+22134,Luke Jongwe,Luke Jongwe,Death-Over Specialist,108,46.15,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+4807,Joshua Little,Joshua Little,All-Phase Pacer,192,45.71,0.0,0.0,69.0,43.0,85.0,15.31,Depth Contender,Bowling
+818,Mitchell Marsh,Mitchell Marsh,Middle-Over Pace Controller,65,45.61,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+32862,Allah Ghazanfar,Allah Ghazanfar,Powerplay New-Ball Specialist,61,45.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5977,Khary Pierre,Khary Pierre,Middle-Over Spin Controller,29,45.36,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+19316,Maheesh Theekshana,Maheesh Theekshana,All-Phase Spinner,483,45.01,0.0,0.0,73.0,53.9,84.0,12.03,Depth Contender,Bowling
+6160,Chamika Karunaratne,Chamika Karunaratne,Middle-Over Pace Controller,82,44.83,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+1171,Chris Woakes,Chris Woakes,Powerplay New-Ball Specialist,32,44.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+305,Ravichandran Ashwin,Ravichandran Ashwin,Middle-Over Spin Controller,285,44.66,0.0,0.0,79.0,57.0,88.0,12.81,Depth Contender,Bowling
+1596,Moeen Ali,Moeen Ali,Middle-Over Spin Controller,175,44.38,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+4816,Khaleel Ahmed,Khaleel Ahmed,Powerplay New-Ball Specialist,218,44.29,0.0,0.0,77.0,52.0,93.0,15.34,Depth Contender,Bowling
+27960,Mayank Yadav,Mayank Yadav,All-Phase Pacer,147,44.25,0.0,0.0,72.0,44.0,90.0,17.16,Depth Contender,Bowling
+8638,Basil Hameed,Basil Hameed,Middle-Over Spin Controller,39,43.93,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6671,Lalit Yadav,Lalit Yadav,All-Phase Spinner,32,43.88,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+58134,Digvesh Rathi,Digvesh Rathi,Middle-Over Spin Controller,85,43.6,20.4,0.0,13.0,9.0,16.0,2.79,Borderline Candidate,Bowling
+4201,Fareed Malik,Fareed Malik,All-Phase Pacer,93,43.59,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+6097,Brydon Carse,Brydon Carse,All-Phase Pacer,68,43.29,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+27380,Harshit Kaushik,Harshit Kaushik,Middle-Over Spin Controller,37,43.08,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3641,Ben Dwarshuis,Ben Dwarshuis,All-Phase Pacer,47,42.99,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4823,Washington Sundar,Washington Sundar,Middle-Over Spin Controller,210,42.79,0.0,0.0,86.0,60.9,95.0,14.25,Depth Contender,Bowling
+2304,Tymal Mills,Tymal Mills,All-Phase Pacer,27,42.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2315,Reece Topley,Reece Topley,Powerplay New-Ball Specialist,128,42.75,0.0,0.0,77.0,53.0,92.0,15.14,Fragile Outlier,Bowling
+7325,Harpreet Brar,Harpreet Brar,Middle-Over Spin Controller,102,42.41,0.0,0.0,78.0,51.9,95.0,17.19,Fragile Outlier,Bowling
+3673,Ramesh Mendis,Ramesh Mendis,Middle-Over Spin Controller,55,42.29,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5041,Mukesh Kumar,Mukesh Kumar,Death-Over Specialist,343,41.96,0.0,0.0,78.0,54.0,94.0,15.47,Depth Contender,Bowling
+39637,Garuka Sanketh,Garuka Sanketh,Death-Over Specialist,36,41.87,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3275,Alzarri Joseph,Alzarri Joseph,All-Phase Pacer,230,41.8,0.0,0.0,82.0,62.0,92.0,12.14,Depth Contender,Bowling
+1541,Sean Williams,Sean Williams,Middle-Over Spin Controller,42,41.66,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+28915,Trevor Gwandu,Trevor Gwandu,All-Phase Pacer,39,41.59,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7094,Curtis Campher,Curtis Campher,Middle-Over Pace Controller,70,41.17,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4780,Mohammad Saif Hassan,Mohammad Saif Hassan,Middle-Over Spin Controller,41,40.95,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4487,Vyshak Kumar,Vyshak Kumar,Middle-Over Pace Controller,91,40.91,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7270,Anrich Nortje,Anrich Nortje,All-Phase Pacer,178,40.71,0.0,0.0,85.5,59.9,96.0,14.3,Depth Contender,Bowling
+2214,Gulbadin Naib,Gulbadin Naib,Middle-Over Pace Controller,41,40.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+19312,Nuwan Thushara,Nuwan Thushara,Powerplay New-Ball Specialist,139,40.48,0.0,0.0,83.0,56.0,96.0,16.02,Depth Contender,Bowling
+7689,Dilshan Madushanka,Dilshan Madushanka,Powerplay New-Ball Specialist,66,40.11,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4854,Rachin Ravindra,Rachin Ravindra,Middle-Over Spin Controller,31,39.78,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+24475,Rehan Ahmed,Rehan Ahmed,Middle-Over Spin Controller,35,39.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+8049,Naseem Shah,Naseem Shah,Powerplay New-Ball Specialist,135,39.41,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+6726,Romario Shepherd,Romario Shepherd,Middle-Over Pace Controller,308,39.29,0.0,0.0,84.5,63.0,95.0,12.66,Depth Contender,Bowling
+1219,David Willey,David Willey,Powerplay New-Ball Specialist,57,39.27,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2876,Axar Patel,Axar Patel,Middle-Over Spin Controller,547,39.17,0.0,0.0,89.0,76.9,94.0,7.78,Depth Contender,Bowling
+3038,Hussain Talat,Hussain Talat,Middle-Over Pace Controller,30,38.87,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3373,Aizaz Khan,Aizaz Khan,Middle-Over Pace Controller,25,38.77,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4755,Shivam Dube,Shivam Dube,Middle-Over Pace Controller,140,38.67,0.0,0.0,86.0,49.0,97.0,18.45,Depth Contender,Bowling
+2320,Trent Boult,Trent Boult,Powerplay New-Ball Specialist,251,38.22,0.0,0.0,87.0,62.9,95.0,12.55,Depth Contender,Bowling
+1944,Keshav Maharaj,Keshav Maharaj,Middle-Over Spin Controller,139,38.21,0.0,0.0,89.0,73.0,96.0,9.9,Depth Contender,Bowling
+7690,Saim Ayub,Saim Ayub,Middle-Over Spin Controller,131,37.12,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+20005,Arshad Khan,Arshad Khan,Powerplay New-Ball Specialist,49,37.02,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+786,Chris Jordan,Chris Jordan,Death-Over Specialist,159,36.75,0.0,0.0,91.0,72.9,96.0,10.35,Depth Contender,Bowling
+6591,KM Asif,KM Asif,Middle-Over Pace Controller,35,36.45,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7250,Mukesh Choudhary,Mukesh Choudhary,Powerplay New-Ball Specialist,64,36.34,8.8,0.0,16.0,11.0,17.0,2.43,Emerging Candidate,Bowling
+2411,Sandeep Sharma,Sandeep Sharma,Powerplay New-Ball Specialist,248,36.23,0.0,0.0,93.0,74.0,97.0,10.0,Depth Contender,Bowling
+56685,Abdullah Ahmadzai,Abdullah Ahmadzai,Middle-Over Pace Controller,76,35.99,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+5189,Faheem Ashraf,Faheem Ashraf,All-Phase Pacer,136,35.84,0.0,0.0,25.0,15.0,35.0,5.0,Depth Contender,Bowling
+7896,Akash Singh,Akash Singh,Powerplay New-Ball Specialist,35,35.34,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4812,Harry Tector,Harry Tector,Middle-Over Spin Controller,35,34.89,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6503,Zahoor Khan,Zahoor Khan,Death-Over Specialist,50,34.72,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7472,Shahbaz Ahmed,Shahbaz Ahmed,Middle-Over Spin Controller,97,34.24,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+4288,Navdeep Saini,Navdeep Saini,Middle-Over Pace Controller,34,34.23,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4904,Kamindu Mendis,Kamindu Mendis,Middle-Over Spin Controller,42,33.65,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+1813,Deepak Chahar,Deepak Chahar,Powerplay New-Ball Specialist,126,33.34,0.0,0.0,94.0,69.0,98.0,13.46,Fragile Outlier,Bowling
+7052,Dunith Wellalage,Dunith Wellalage,All-Phase Spinner,103,33.15,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+27959,Hrithik Shokeen,Hrithik Shokeen,Middle-Over Spin Controller,41,32.92,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+4658,Nasum Ahmed,Nasum Ahmed,Powerplay New-Ball Specialist,97,32.67,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+7545,Kuldeep Sen,Kuldeep Sen,Middle-Over Pace Controller,58,32.27,1.4,0.0,17.0,14.0,17.0,1.51,Emerging Candidate,Bowling
+5808,Karim Janat,Karim Janat,Middle-Over Pace Controller,93,31.56,0.0,0.0,25.0,15.0,35.0,5.0,Fragile Outlier,Bowling
+4790,Lutho Sipamla,Lutho Sipamla,All-Phase Pacer,28,31.48,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+2334,Dwaine Pretorius,Dwaine Pretorius,Death-Over Specialist,147,30.3,0.0,0.0,98.0,86.0,98.0,7.62,Depth Contender,Bowling
+4857,Nathan Smith,Nathan Smith,Death-Over Specialist,45,29.39,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+7473,Akash Deep,Akash Deep,All-Phase Pacer,50,29.13,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+6436,Qais Ahmad,Qais Ahmad,Middle-Over Spin Controller,54,28.55,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+5892,Blair Tickner,Blair Tickner,Death-Over Specialist,45,28.51,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling
+3285,Abu Haider,Abu Haider,All-Phase Pacer,46,27.0,0.0,0.0,25.0,15.0,35.0,5.0,Emerging Candidate,Bowling

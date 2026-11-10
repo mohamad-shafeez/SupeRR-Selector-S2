@@ -1,0 +1,31 @@
+{
+  "model_version": "2.4.0-RR-WarRoom",
+  "analysis_date": "2026-11-10",
+  "random_seed": 42,
+  "data_dir": "/working_dir/c_03355a4fc3f87796/official_data_pack",
+  "output_dir": "/working_dir/c_03355a4fc3f87796/SUPERR_SELECTOR/outputs",
+  "pressure_thresholds": {
+    "lenient": 0.50,
+    "default": 0.55,
+    "strict": 0.58,
+    "extreme": 0.65
+  },
+  "min_pressure_balls": {
+    "official_leaderboard_a": 100,
+    "scouting_leaderboard_b": 60,
+    "emerging_watchlist": 30
+  },
+  "bootstrap_iterations": 500,
+  "chronological_split": {
+    "train_seasons": ["2022", "2022/23", "2023", "2023/24", "2024", "2024/25"],
+    "validation_seasons": ["2025"],
+    "test_seasons": ["2026"]
+  },
+  "prs_weights": {
+    "posterior_vap": 0.35,
+    "posterior_consistency": 0.25,
+    "downside_protection": 0.15,
+    "role_adjusted_lift": 0.15,
+    "sample_confidence": 0.10
+  }
+}
