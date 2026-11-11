@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Proprietary Rajasthan Royals raw data pack (never commit raw CSVs)
+official_data_pack/
+ball_by_ball.csv
+matches.csv
+competitions.csv
+teams.csv
+playing_eleven.csv
+competition_team_player_mapping.csv
+*data_pack*.zip
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -245,7 +245,7 @@ def compute_batter_reliability_table(
 
     # Merge eligibility metadata
     df = df.merge(
-        elig_df[["player_id", "has_ipl", "has_india_a", "has_t20i", "is_uncapped_indian", "is_overseas", "is_rr_player", "latest_ipl_team", "teams_list"]],
+        elig_df[["player_id", "has_ipl", "is_active_2027", "has_india_a", "has_t20i", "is_uncapped_indian", "is_overseas", "is_rr_player", "latest_ipl_team", "teams_list"]],
         on="player_id", how="left"
     )
 
@@ -486,7 +486,7 @@ def compute_bowler_reliability_table(
     df["confidence_tier"] = df["press_balls"].apply(get_confidence_tier)
 
     df = df.merge(
-        elig_df[["player_id", "has_ipl", "has_india_a", "has_t20i", "is_uncapped_indian", "is_overseas", "is_rr_player", "latest_ipl_team", "teams_list"]],
+        elig_df[["player_id", "has_ipl", "is_active_2027", "has_india_a", "has_t20i", "is_uncapped_indian", "is_overseas", "is_rr_player", "latest_ipl_team", "teams_list"]],
         on="player_id", how="left"
     )
 

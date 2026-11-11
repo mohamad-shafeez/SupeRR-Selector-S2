@@ -123,6 +123,24 @@ def main():
     print("8. Building Player Similarity & Statistical Replacement Engine...")
     sim_data = build_similarity_engine(bat_df, bowl_df)
 
+    FRANCHISE_LOCKED = {
+        "Jasprit Bumrah", "Suryakumar Yadav", "Namboori Tilak Varma", "Nicholas Pooran",
+        "Heinrich Klaasen", "Nitish Reddy", "Sunil Narine", "Varun Chakravarthy",
+        "Rinku Singh", "Rashid Khan", "Jos Buttler", "Kuldeep Yadav", "Matheesha Pathirana"
+    }
+    def get_acq_pathway(r):
+        name = r.get("striker_name") or r.get("bowler_name")
+        if r.get("is_rr_player"):
+            return "Existing RR Squad Core / Retention"
+        if name in FRANCHISE_LOCKED:
+            return "Franchise-Locked Benchmark (Map via Tab 7 Clone)"
+        if r.get("is_uncapped_indian") and r.get("press_balls", 0) < 150:
+            return "Uncapped Domestic Auction Target"
+        return "2027 Pre-Auction Release / Trade-Window Target"
+
+    bat_df["acquisition_pathway"] = bat_df.apply(get_acq_pathway, axis=1)
+    bowl_df["acquisition_pathway"] = bowl_df.apply(get_acq_pathway, axis=1)
+
     # Define Official Competition Rankings (Leaderboard A: IPL-eligible established >= 100 pressure balls, plus Overall Global >= 100b)
     off_bat_ipl_top10 = bat_df[(bat_df["has_ipl"]) & (bat_df["press_balls"] >= 100)].sort_values("prs_score", ascending=False).head(10).reset_index(drop=True)
     off_bat_ipl_top10["rank"] = np.arange(1, len(off_bat_ipl_top10) + 1)
@@ -131,10 +149,10 @@ def main():
     off_bowl_ipl_top10["rank"] = np.arange(1, len(off_bowl_ipl_top10) + 1)
 
     # Define Track B: Uncapped Indian IPL Auction Scouting Top 10 (>= 60 pressure balls)
-    scouting_bat_top10 = bat_df[(bat_df["is_uncapped_indian"]) & (bat_df["press_balls"] >= 50)].sort_values("prs_score", ascending=False).head(10).reset_index(drop=True)
+    scouting_bat_top10 = bat_df[(bat_df["is_uncapped_indian"]) & (bat_df["rec_balls"] > 0) & (bat_df["press_balls"] >= 50)].sort_values("prs_score", ascending=False).head(10).reset_index(drop=True)
     scouting_bat_top10["rank"] = np.arange(1, len(scouting_bat_top10) + 1)
 
-    scouting_bowl_top10 = bowl_df[(bowl_df["is_uncapped_indian"]) & (bowl_df["press_balls"] >= 50)].sort_values("prs_score", ascending=False).head(10).reset_index(drop=True)
+    scouting_bowl_top10 = bowl_df[(bowl_df["is_uncapped_indian"]) & (bowl_df["rec_balls"] > 0) & (bowl_df["press_balls"] >= 50)].sort_values("prs_score", ascending=False).head(10).reset_index(drop=True)
     scouting_bowl_top10["rank"] = np.arange(1, len(scouting_bowl_top10) + 1)
 
     print("9. Executing Automated Test Suite (Tests 1–10)...")
@@ -220,10 +238,10 @@ def main():
         "official_bowl_top10": off_bowl_ipl_top10.to_dict(orient="records"),
         "scouting_bat_top10": scouting_bat_top10.to_dict(orient="records"),
         "scouting_bowl_top10": scouting_bowl_top10.to_dict(orient="records"),
-        "batters_pool": bat_df[(bat_df["has_ipl"] | bat_df["has_india_a"]) & (bat_df["press_balls"] >= 45)].head(45).to_dict(orient="records"),
-        "bowlers_pool": bowl_df[(bowl_df["has_ipl"] | bowl_df["has_india_a"]) & (bowl_df["press_balls"] >= 45)].head(45).to_dict(orient="records"),
-        "global_t20i_bat_top10": bat_df[bat_df["press_balls"] >= 100].sort_values("prs_score", ascending=False).head(10).to_dict(orient="records"),
-        "global_t20i_bowl_top10": bowl_df[bowl_df["press_balls"] >= 100].sort_values("prs_score", ascending=False).head(10).to_dict(orient="records"),
+        "batters_pool": bat_df[(bat_df["is_active_2027"]) & (bat_df["rec_balls"] > 0) & (bat_df["has_ipl"] | bat_df["has_india_a"]) & (bat_df["press_balls"] >= 45)].head(45).to_dict(orient="records"),
+        "bowlers_pool": bowl_df[(bowl_df["is_active_2027"]) & (bowl_df["rec_balls"] > 0) & (bowl_df["has_ipl"] | bowl_df["has_india_a"]) & (bowl_df["press_balls"] >= 45)].head(45).to_dict(orient="records"),
+        "global_t20i_bat_top10": bat_df[(bat_df["is_active_2027"]) & (bat_df["press_balls"] >= 100)].sort_values("prs_score", ascending=False).head(10).to_dict(orient="records"),
+        "global_t20i_bowl_top10": bowl_df[(bowl_df["is_active_2027"]) & (bowl_df["press_balls"] >= 100)].sort_values("prs_score", ascending=False).head(10).to_dict(orient="records"),
         "matchup_matrix": matchup_df.to_dict(orient="records"),
         "similarity": sim_data,
         "rr_intelligence": rr_diag,

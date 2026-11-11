@@ -61,8 +61,9 @@ def build_player_eligibility_metadata(data_bundle: dict) -> pd.DataFrame:
 
     ipl_rows = m[m["comp_name"].str.contains("IPL", case=False, na=False)]
     ipl_teams_by_pid = ipl_rows.groupby("player_id")["team_name"].unique().to_dict()
-    RETIRED_OR_INACTIVE_2027 = {"Dinesh Karthik", "Matthew Wade", "Tim Southee", "Mahendra Singh Dhoni", "Faf du Plessis", "Moeen Ali", "David Warner", "Shikhar Dhawan", "Wriddhiman Saha", "Ambati Rayudu", "Dwayne Bravo", "Kieron Pollard", "Eoin Morgan", "Robin Uthappa", "Piyush Chawla", "Amit Mishra", "Mohit Sharma"}
+    RETIRED_OR_INACTIVE_2027 = {"Andre Russell", "Dinesh Karthik", "Matthew Wade", "Tim Southee", "Mahendra Singh Dhoni", "Faf du Plessis", "Moeen Ali", "David Warner", "Shikhar Dhawan", "Wriddhiman Saha", "Ambati Rayudu", "Dwayne Bravo", "Kieron Pollard", "Eoin Morgan", "Robin Uthappa", "Piyush Chawla", "Amit Mishra", "Mohit Sharma", "Sikandar Raza", "Dasun Shanaka", "Ravichandran Ashwin", "Shakib Al Hasan", "Kane Williamson", "glenn maxwell", "Glenn Maxwell"}
     ipl_2026_rows = m[m["comp_name"] == "IPL 2026"]
+    ipl_2026_pids = set(ipl_2026_rows["player_id"].unique())
     ipl_2026_team_by_pid = ipl_2026_rows.groupby("player_id")["team_name"].last().to_dict()
 
     india_a_pids = set(m[m["team_name"] == "India A"]["player_id"].unique())
@@ -121,7 +122,7 @@ def build_player_eligibility_metadata(data_bundle: dict) -> pd.DataFrame:
             "player_id": pid,
             "unstop_name": uname,
             "display_name": dname,
-            "has_ipl": bool(has_ipl and (uname not in RETIRED_OR_INACTIVE_2027)),
+            "has_ipl": bool((pid in ipl_2026_pids) and (uname not in RETIRED_OR_INACTIVE_2027) and (uname not in {"Andre Russell", "Dasun Shanaka"})),
             "is_active_2027": bool(uname not in RETIRED_OR_INACTIVE_2027),
             "has_india_a": bool(has_india_a),
             "has_t20i": bool(has_t20i),
